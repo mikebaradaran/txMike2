@@ -1,8 +1,8 @@
 
-var course = process(allData.course);
-var pcs = process(allData.pcs);
-var students = process(allData.students);
-var vpcs = process(allData.vpcs);
+var course = process(course);
+var pcs = process(pcs);
+var students = process(students);
+var vpcs = process(passwords);
 var afaEmail = course[3];
 
 const evalLink = "https://evaluation.qa.com/Login.aspx?course=" + course[1] + "&pin=" + course[2];
@@ -10,7 +10,7 @@ const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashbo
 const txMikeClear = "https://txMike.glitch.me/clear";
 const commentsUrl = "https://mikescustomers.glitch.me/comments";
 
-getElement("trainerEmail").innerHTML = allData.trainer;
+getElement("trainerEmail").innerHTML = trainer;
 getElement("courseTitle").innerHTML = course[0];
 getElement("email").value = vpcs[0];
 getElement("password1").value = vpcs[1];
@@ -129,5 +129,4 @@ function getTime() {
     return today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
 }
 
-module.exports = allData;
 

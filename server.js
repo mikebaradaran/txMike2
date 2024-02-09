@@ -40,14 +40,13 @@ app.get("/clear", (req, res) => {
   res.render("index");
 });
 app.get("/comments", (req, res) => {
-  // res.sendFile(__dirname + "/comments.ejs");
   res.render("comments");
   
 });
 
 app.get("/comments/read", (req, res) => {
   fs.readFile("comments.txt", "utf8", (err, data) => {
-    if (err) {
+    if (err) { 
       console.log(err);
       return;
     }

@@ -1,4 +1,5 @@
 // server.js
+const fs = require("fs");
 const express = require("express");
 const app = express();
 const server = require("http").createServer(app);
@@ -24,9 +25,6 @@ app.get("/all", (req, res) => {
 app.get("/index", (req, res) => {
   res.render("index");
 });
-app.get("/index2", (req, res) => {
-  res.render("index2");
-});
 app.get("/student", (req, res) => {
   res.render("student");
 });
@@ -51,6 +49,86 @@ server.listen(
     console.log(`Your app is running!`);
   }
 );
+
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+// Handle form submission for comments
+app.post("/submit", (req, res) => {
+  let data = req.body;
+  let comments = processComment(
+    data.txtName,
+    data.txtComment1,
+    data.txtComment2
+  );
+  fs.appendFile("comments.txt", comments, { encoding: "utf8" }, (err) => {
+    if (err) {
+      throw err;
+    }
+  });
+  res.send("Thank you 👍 Your comments are save.");
+});
+
+var writeJsonResponse = function (res, str) {
+  res.writeHead(200, { "Content-Type": "application/json" });
+  res.end(JSON.stringify(str));
+};
+
+function processComment(name, comment1, comment2) {
+  const duration = "5";
+  const courseTitle = "Web development";
+
+  let firstname = name.split(" ")[0];
+  let com1 = "";
+  let com2 = "";
+  if (comment1.trim() != "")
+    com1 = `${firstname} made the following comments about the course: ${comment1.replace(
+      "\n",
+      "<br />"
+    )}<br />`;
+  if (comment2.trim() != "")
+    com2 = `When I asked what to do after the course, ${firstname} told me: ${comment2.replace(
+      "\n",
+      "<br />"
+    )}<br />`;
+
+  return `${name}<br /> 
+General comments:<br />
+${firstname} did well in this course and I am happy with ${firstname}'s progress.<br />
+${com1}<br />Punctuality & Engagement:<br />
+${firstname} was always punctual during the ${duration} days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development code and design at work.<br /> ${com2}<br />--------------------------------<br />`;
+}
+
+app.get("/comments", (req, res) => {
+  res.sendFile(__dirname + "/comments.ejs");
+});
+
+app.get("/comments/read", (req, res) => {
+  fs.readFile("comments.txt", "utf8", (err, data) => {
+    if (err) {
+      console.log(err);
+      return;
+    }
+    res.send(data);
+  });
+});
+
+app.get("/comments/delete", (req, res) => {
+
+  fs.writeFile("comments.txt", "", { encoding: "utf8" }, (err) => {
+    if (err) {
+      throw err;
+    }
+  });
+  res.send("File deleted");
+  
+});
+
+
+
+
 //------------------------------------------------------------
 
 var messages = [];

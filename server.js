@@ -39,19 +39,29 @@ app.get("/clear", (req, res) => {
   // res.end();
   res.render("index");
 });
-server.listen(
-  { port: process.env.PORT, host: "0.0.0.0" },
-  function (err, address) {
-    if (err) {
-      console.error(err);
-      process.exit(1);
-    }
-    console.log(`Your app is running!`);
-  }
-);
+app.get("/comments", (req, res) => {
+  // res.sendFile(__dirname + "/comments.ejs");
+  res.render("comments");
+  
+});
 
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
+app.get("/comments/read", (req, res) => {
+  fs.readFile("comments.txt", "utf8", (err, data) => {
+    if (err) {
+      console.log(err);
+      return;
+    }
+    res.send(data);
+  });
+});
+
+app.get("/comments/delete", (req, res) => {
+
+  fs.writeFile("comments.txt", "", { encoding: "utf8" }, (err) => {
+    if (err) { throw err; }
+  });
+  res.send("File deleted");
+});
 
 // Handle form submission for comments
 app.post("/submit", (req, res) => {
@@ -68,6 +78,21 @@ app.post("/submit", (req, res) => {
   });
   res.send("Thank you 👍 Your comments are save.");
 });
+
+
+server.listen(
+  { port: process.env.PORT, host: "0.0.0.0" },
+  function (err, address) {
+    if (err) {
+      console.error(err);
+      process.exit(1);
+    }
+    console.log(`Your app is running!`);
+  }
+);
+
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 var writeJsonResponse = function (res, str) {
   res.writeHead(200, { "Content-Type": "application/json" });
@@ -100,34 +125,6 @@ ${firstname} was always punctual during the ${duration} days of the course and w
 Recommendations for further learning:<br />
 Practice implementing Web development code and design at work.<br /> ${com2}<br />--------------------------------<br />`;
 }
-
-app.get("/comments", (req, res) => {
-  res.sendFile(__dirname + "/comments.ejs");
-});
-
-app.get("/comments/read", (req, res) => {
-  fs.readFile("comments.txt", "utf8", (err, data) => {
-    if (err) {
-      console.log(err);
-      return;
-    }
-    res.send(data);
-  });
-});
-
-app.get("/comments/delete", (req, res) => {
-
-  fs.writeFile("comments.txt", "", { encoding: "utf8" }, (err) => {
-    if (err) {
-      throw err;
-    }
-  });
-  res.send("File deleted");
-  
-});
-
-
-
 
 //------------------------------------------------------------
 

@@ -4,6 +4,7 @@
 <head>
     <title>txMike</title>
     <link href="txMike.css" rel="stylesheet" />
+    <script src="classData.js" defer></script>
     <script src="txMike.js" defer></script>
 </head>
 <body>
@@ -53,7 +54,7 @@
                         <ol id="pcs"></ol>
                         <textarea id="txtArea" cols="65" rows="3"></textarea>
                         <div>
-                            <object id="studentMessages" data="https://txMike.glitch.me/student"></object>
+                            <object id="studentMessages" data="<%= commonData.appName %>/student"></object>
                         </div>
                     </div>
                     <div>
@@ -65,6 +66,6 @@
             </tr>
         </table>
     </div>
-    <object id="displayMessages" data="https://txMike.glitch.me/trainer" height="650"></object>
+    <object id="displayMessages" data="<%= commonData.appName %>/trainer" height="650"></object>
 </body>
 </html>

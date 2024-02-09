@@ -1,7 +1,7 @@
 const site = "txtMike2";
 
-const txMikeClear = "https://txMike2.glitch.me/clear";
-const commentsUrl = "https://txMike2.glitch.me/comments"; 
+const txMikeClear = `https://${site}.glitch.me/clear`;
+const commentsUrl = `https://${site}.glitch.me/comments`; 
 
 var courseData = `
 Web Fundamentals

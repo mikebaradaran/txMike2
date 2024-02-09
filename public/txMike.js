@@ -1,22 +1,22 @@
 
-var course = process(course);
-var pcs = process(pcs);
-var students = process(students);
-var vpcs = process(passwords);
-var afaEmail = course[3];
+courseData = process(courseData);
+pcs = process(pcs);
+students = process(students);
+passwords = process(passwords);
+var afaEmail = courseData[3];
 
-const evalLink = "https://evaluation.qa.com/Login.aspx?course=" + course[1] + "&pin=" + course[2];
+const evalLink = "https://evaluation.qa.com/Login.aspx?course=" + courseData[1] + "&pin=" + courseData[2];
 const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashboard?siteurl=qa-learning";
-const txMikeClear = "https://txMike.glitch.me/clear";
-const commentsUrl = "https://mikescustomers.glitch.me/comments";
+const txMikeClear = "https://txMike2.glitch.me/clear";
+const commentsUrl = "https://txMike2.glitch.me/comments";
 
 getElement("trainerEmail").innerHTML = trainer;
-getElement("courseTitle").innerHTML = course[0];
-getElement("email").value = vpcs[0];
-getElement("password1").value = vpcs[1];
-getElement("password2").value = vpcs[2]; 
-getElement("courseMaterial").href = course[4]; 
-getElement("mimeo").value = course[5];  
+getElement("courseTitle").innerHTML = courseData[0];
+getElement("email").value = passwords[0];
+getElement("password1").value = passwords[1];
+getElement("password2").value = passwords[2]; 
+getElement("courseMaterial").href = courseData[4]; 
+getElement("mimeo").value = courseData[5];  
 
 // setup combobox
 const cboValues = [

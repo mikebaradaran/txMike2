@@ -1,4 +1,8 @@
- 
+const site = "txtMike2";
+
+const txMikeClear = "https://txMike2.glitch.me/clear";
+const commentsUrl = "https://txMike2.glitch.me/comments"; 
+
 var courseData = `
 Web Fundamentals
 ADXD2SD3M2

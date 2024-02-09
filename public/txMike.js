@@ -7,8 +7,7 @@ var afaEmail = courseData[3];
 
 const evalLink = "https://evaluation.qa.com/Login.aspx?course=" + courseData[1] + "&pin=" + courseData[2];
 const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashboard?siteurl=qa-learning";
-const txMikeClear = "https://txMike2.glitch.me/clear";
-const commentsUrl = "https://txMike2.glitch.me/comments";
+
 
 getElement("trainerEmail").innerHTML = trainer;
 getElement("courseTitle").innerHTML = courseData[0];

@@ -8,7 +8,6 @@ var afaEmail = courseData[3];
 const evalLink = "https://evaluation.qa.com/Login.aspx?course=" + courseData[1] + "&pin=" + courseData[2];
 const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashboard?siteurl=qa-learning";
 
-
 getElement("trainerEmail").innerHTML = trainer;
 getElement("courseTitle").innerHTML = courseData[0];
 getElement("email").value = passwords[0];
@@ -111,7 +110,7 @@ function startTimer(timerName, divCountdown) {
         if (seconds < 0) {
             stopTimer();
             setMessage(mins + " minutes passed. Ended at " + getTime());
-            new Audio('https://cdn.glitch.global/7ea2c2b4-d4b6-41d3-afca-c4c259b797be/Alarm01.wav?v=1685964726574').play();
+            new Audio(audioFile).play();
             return;
         }
         getElement(divCountdown).innerHTML = minutes + ":" + (seconds - minutes * 60);

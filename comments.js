@@ -16,7 +16,7 @@ ${firstname} did well in this course and I am happy with ${firstname}'s progress
 ${com1}<br />Punctuality & Engagement:<br />
 ${firstname} was always punctual during the ${duration} days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Web development code and design at work.<br /> ${com2}<br />--------------------------------<br />`;
+Practice implementing ${courseTitle} code and design at work.<br /> ${com2}<br />--------------------------------<br />`;
 }
 
 function deleteComments(fs){

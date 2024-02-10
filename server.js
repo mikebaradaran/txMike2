@@ -11,6 +11,7 @@ app.set("view engine", "ejs");
 
 // Serve static files from the "public" folder
 app.use(express.static("public"));
+app.use(express.bodyParser());
 
 // Middleware to make common data accessible in all views
 app.use((req, res, next) => {
@@ -45,14 +46,16 @@ app.get("/comments", (req, res) => {
 });
 
 app.get("/comments/read", (req, res) => {
-  fs.readFile("comments.txt", "utf8", (err, data) => {
-    if (err) { 
-      console.log(err);
-      return;
-    }
-    res.send(data);
-  });
+  res.send(fs.readFileSync('comments.txt', 'utf8'));
+  // fs.readFile("comments.txt", "utf8", (err, data) => {
+  //   if (err) { 
+  //     console.log(err);
+  //     return;
+  //   }
+  //   res.send(data);
+  // });
 });
+
 
 app.get("/comments/delete", (req, res) => {
 
@@ -65,6 +68,7 @@ app.get("/comments/delete", (req, res) => {
 // Handle form submission for comments
 app.post("/submit", (req, res) => {
   let data = req.body;
+  console.log(data);
   let comments = processComment(
     data.txtName,
     data.txtComment1,

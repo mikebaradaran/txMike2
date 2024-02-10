@@ -1,5 +1,6 @@
 // server.js
 const fs = require("fs");
+const path = require('path');
 const express = require("express");
 const app = express();
 const server = require("http").createServer(app);
@@ -11,7 +12,6 @@ app.set("view engine", "ejs");
 
 // Serve static files from the "public" folder
 app.use(express.static("public"));
-app.use(express.bodyParser());
 
 // Middleware to make common data accessible in all views
 app.use((req, res, next) => {
@@ -41,7 +41,8 @@ app.get("/clear", (req, res) => {
   res.render("index");
 });
 app.get("/comments", (req, res) => {
-  res.render("comments");
+  res.sendFile(path.join(__dirname,  'comments.html'));
+  //res.render("comments");
   
 });
 

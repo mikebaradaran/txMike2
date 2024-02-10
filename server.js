@@ -1,4 +1,6 @@
 // server.js
+const comments = require('./comments.js');
+
 const fs = require("fs");
 const path = require('path');
 const express = require("express");
@@ -64,7 +66,7 @@ app.get("/commentsDelete", (req, res) => {
 // Handle form submission for comments
 app.post("/commentsSave", (req, res) => {
   let data = req.body;
-  let comments = processComment(
+  let comments = comments.processComment(
     data.txtName,
     data.txtComment1,
     data.txtComment2
@@ -89,7 +91,7 @@ server.listen(
   }
 );
 
-function processComment(name, comment1, comment2) {
+function processCommentxxx(name, comment1, comment2) {
   const duration = "5";
   const courseTitle = "Web development";
 

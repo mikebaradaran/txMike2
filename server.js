@@ -41,12 +41,11 @@ app.get("/clear", (req, res) => {
   res.render("index");
 });
 app.get("/comments", (req, res) => {
-  res.sendFile(path.join(__dirname,  'comments.html'));
-  //res.render("comments");
+  res.render("comments");
   
 });
 
-app.get("/comments/read", (req, res) => {
+app.get("/commentsRead", (req, res) => {
   res.send(fs.readFileSync('comments.txt', 'utf8'));
   // fs.readFile("comments.txt", "utf8", (err, data) => {
   //   if (err) { 
@@ -58,7 +57,7 @@ app.get("/comments/read", (req, res) => {
 });
 
 
-app.get("/comments/delete", (req, res) => {
+app.get("/commentsDelete", (req, res) => {
 
   fs.writeFile("comments.txt", "", { encoding: "utf8" }, (err) => {
     if (err) { throw err; }
@@ -67,7 +66,7 @@ app.get("/comments/delete", (req, res) => {
 });
 
 // Handle form submission for comments
-app.post("/submit", (req, res) => {
+app.post("/commentsSave", (req, res) => {
   let data = req.body;
   console.log(data);
   let comments = processComment(

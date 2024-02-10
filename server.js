@@ -54,28 +54,14 @@ app.get("/commentsRead", (req, res) => {
   res.send(fs.readFileSync('comments.txt', 'utf8'));
 });
 
-
 app.get("/commentsDelete", (req, res) => {
-
-  fs.writeFile("comments.txt", "", { encoding: "utf8" }, (err) => {
-    if (err) { throw err; }
-  });
+  commentJS.deleteComments(fs);
   res.send("File deleted");
 });
 
 // Handle form submission for comments
 app.post("/commentsSave", (req, res) => {
-  let data = req.body;
-  let comments = commentJS.processComment(
-    data.txtName,
-    data.txtComment1,
-    data.txtComment2
-  );
-  fs.appendFile("comments.txt", comments, { encoding: "utf8" }, (err) => {
-    if (err) {
-      throw err;
-    }
-  });
+  commentJS.saveComments(req, fs);  
   res.send("Thank you 👍 Your comments are save.");
 });
 

@@ -5,11 +5,11 @@ const commentsUrl = `https://${site}.glitch.me/comments`;
 const audioFile = `'https://cdn.glitch.global/7ea2c2b4-d4b6-41d3-afca-c4c259b797be/Alarm01.wav?v=1685964726574'`;
 
 var courseData = `
-Web Fundamentals
-ADXD2SD3M2
-4809977-9
-qa.webex049@qa.com
-https://1drv.ms/f/s!AtB-qUlPfIiCiN13e_NAkaLr_N94LQ?e=qy3NGz
+Agile Software Development
+ADXD2SD3M1
+4802124-14
+qa.webex042@qa.com
+https://onedrive.live.com/?authkey=%21AFYQekW2mymFWWA&id=82887C4F49A97ED0%21140985&cid=82887C4F49A97ED0
 mimio NA
 `;
 
@@ -35,11 +35,15 @@ https://qa.learnondemand.net/Class/585529
 `;
   
 var students = `
-Rowlands, David	
-Brown, Teresa	
-Conway, Philip	
-Walton, Joseph	
-Teles, Leonardo	
-Amjad, Esha
+Al-Qassab, Tareq	
+Mellor, Nicholas	
+Maldonado, Pilar	
+Smith, Ashley	
+Crawford, Kelly	
+Lindsay, Ross	
+Osman, Bilal	
+Shale, Lennon	
+Cardos, Ana-Maria	
+Ahmed, Ahmed
 `;
 

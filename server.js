@@ -1,5 +1,5 @@
 // server.js
-const comments = require('./comments.js');
+const commentJS = require('./comments.js');
 
 const fs = require("fs");
 const path = require('path');
@@ -66,7 +66,7 @@ app.get("/commentsDelete", (req, res) => {
 // Handle form submission for comments
 app.post("/commentsSave", (req, res) => {
   let data = req.body;
-  let comments = comments.processComment(
+  let comments = commentJS.processComment(
     data.txtName,
     data.txtComment1,
     data.txtComment2
@@ -90,33 +90,6 @@ server.listen(
     console.log(`Your app is running!`);
   }
 );
-
-function processCommentxxx(name, comment1, comment2) {
-  const duration = "5";
-  const courseTitle = "Web development";
-
-  let firstname = name.split(" ")[0];
-  let com1 = "";
-  let com2 = "";
-  if (comment1.trim() != "")
-    com1 = `${firstname} made the following comments about the course: ${comment1.replace(
-      "\n",
-      "<br />"
-    )}<br />`;
-  if (comment2.trim() != "")
-    com2 = `When I asked what to do after the course, ${firstname} told me: ${comment2.replace(
-      "\n",
-      "<br />"
-    )}<br />`;
-
-  return `${name}<br /> 
-General comments:<br />
-${firstname} did well in this course and I am happy with ${firstname}'s progress.<br />
-${com1}<br />Punctuality & Engagement:<br />
-${firstname} was always punctual during the ${duration} days of the course and was engaged during the lectures.<br /><br />
-Recommendations for further learning:<br />
-Practice implementing Web development code and design at work.<br /> ${com2}<br />--------------------------------<br />`;
-}
 
 //------------------------------------------------------------
 

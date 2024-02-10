@@ -10,6 +10,9 @@ const commonData = require("./common.js");
 
 app.set("view engine", "ejs");
 
+// Middleware to parse urlencoded form data
+app.use(express.urlencoded({ extended: true }));
+
 // Serve static files from the "public" folder
 app.use(express.static("public"));
 
@@ -47,13 +50,6 @@ app.get("/comments", (req, res) => {
 
 app.get("/commentsRead", (req, res) => {
   res.send(fs.readFileSync('comments.txt', 'utf8'));
-  // fs.readFile("comments.txt", "utf8", (err, data) => {
-  //   if (err) { 
-  //     console.log(err);
-  //     return;
-  //   }
-  //   res.send(data);
-  // });
 });
 
 
@@ -68,7 +64,6 @@ app.get("/commentsDelete", (req, res) => {
 // Handle form submission for comments
 app.post("/commentsSave", (req, res) => {
   let data = req.body;
-  console.log(data);
   let comments = processComment(
     data.txtName,
     data.txtComment1,
@@ -93,14 +88,6 @@ server.listen(
     console.log(`Your app is running!`);
   }
 );
-
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
-
-var writeJsonResponse = function (res, str) {
-  res.writeHead(200, { "Content-Type": "application/json" });
-  res.end(JSON.stringify(str));
-};
 
 function processComment(name, comment1, comment2) {
   const duration = "5";

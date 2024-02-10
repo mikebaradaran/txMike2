@@ -1,7 +1,7 @@
-const site = "txmike2";
+const site = document.getElementById('site').innerHTML;
 
-const txMikeClear = `https://${site}.glitch.me/clear`;
-const commentsUrl = `https://${site}.glitch.me/comments`; 
+const txMikeClear = `${site}/clear`;
+const commentsUrl = `${site}/comments`; 
 const audioFile = `'https://cdn.glitch.global/7ea2c2b4-d4b6-41d3-afca-c4c259b797be/Alarm01.wav?v=1685964726574'`;
 
 var courseData = `

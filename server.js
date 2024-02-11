@@ -68,6 +68,30 @@ app.post("/commentsSave", (req, res) => {
 });
 
 
+
+app.get("/customers", function (req, res) {
+  res.send(customers);
+});
+
+app.get("/customers/:id", function (req, res) {
+  let id = req.params.id;
+  var data = customers.filter(
+    (c) => c.CustomerID.toLowerCase() == id.toLowerCase()
+  );
+  res.send(data);
+});
+
+app.get("/orders", function (req, res) {
+  res.send(res, orders);
+});
+app.get("/orders/:id", function (req, res) {
+  let id = req.params.id;
+  var data = orders.filter(
+    (c) => c.CustomerID.toLowerCase() == id.toLowerCase()
+  );
+  res.send(data);
+});
+
 server.listen(
   { port: process.env.PORT, host: "0.0.0.0" },
   function (err, address) {

@@ -1,4 +1,6 @@
 // server.js
+var customers = require("./customers.json");
+var orders = require("./orders.json")
 const commentJS = require('./comments.js');
 
 const fs = require("fs");

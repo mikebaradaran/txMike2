@@ -6,7 +6,6 @@ passwords = process(passwords);
 var afaEmail = courseData[3];
 
 const evalLink = "https://evaluation.qa.com/Login.aspx?course=" + courseData[1] + "&pin=" + courseData[2];
-const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashboard?siteurl=qa-learning";
 
 getElement("trainerEmail").innerHTML = trainer;
 getElement("courseTitle").innerHTML = courseData[0];
@@ -19,14 +18,14 @@ getElement("mimeo").value = courseData[5];
 // setup combobox
 const cboValues = [
     { title: "Select an item", msg: '', timer: 0 },
+    { title: "clear messages", msg:"", link: txMikeClear, timer: 0 },
     { title: "Finish lab", msg: 'Please put a ✔ when you have completed the lab', timer: 0   },
     { title: "ready to start", msg: 'Please put a ✔ when you are ready to start 🏍',timer: 0  },
     { title: "Coffee", msg: 'Let\'s take a 15 minutes break ☕'  , timer:15        },
     { title: "Lunch", msg: 'Let\'s take 60 minutes for lunch 🍔', timer: 60        },
     { title: "mini break", msg: 'Let\'s take a 5 minutes mini break ☕', timer: 5  },
-    { title: "Student comment", msg: "Please write comments about the course", link: commentsUrl, timer: 0 },
+    { title: "Comment", msg: "Please write comments about the course", link: commentsUrl, timer: 0 },
     { title: "Evaluation", msg: "Please complete the course evaluation", link: evalLink , timer: 0 },
-    { title: "clear messages", msg:"", link: txMikeClear, timer: 0 },
     { title: "Display intro", msg: "", timer: 0 }
 ];
 

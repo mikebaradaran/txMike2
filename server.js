@@ -2,15 +2,15 @@
 var customers = require("./customers.json");
 var orders = require("./orders.json")
 const commentJS = require('./comments.js');
+const commonData = require("./common.js");
 
 const fs = require("fs");
-const path = require('path');
+// const path = require('path');
 const express = require("express");
 const app = express();
 const server = require("http").createServer(app);
 const io = require("socket.io")(server, { cors: { origin: "*" } });
 
-const commonData = require("./common.js");
 
 app.set("view engine", "ejs");
 
@@ -127,9 +127,8 @@ function doTrainerCommand(data) {
 }
 
 function saveMessage(data) {
-  const found = messages.find(
-    (m) => m.name.toLowerCase() == data.name.toLowerCase()
-  );
+  const found = messages.find((m) => m.name.toLowerCase() == data.name.toLowerCase() );
+  
   if (found) found.body = data.body;
   else messages.push({ name: data.name, body: data.body });
 }

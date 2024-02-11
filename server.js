@@ -82,8 +82,9 @@ app.get("/customers/:id", function (req, res) {
 });
 
 app.get("/orders", function (req, res) {
-  res.send(res, orders);
+  res.send(orders);
 });
+
 app.get("/orders/:id", function (req, res) {
   let id = req.params.id;
   var data = orders.filter(

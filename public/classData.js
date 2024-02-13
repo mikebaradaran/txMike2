@@ -8,7 +8,7 @@ const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashbo
 var courseData = `
 Agile Software Development
 ADXD2SD3M1
-4802124-14
+4802124-1x
 qa.webex042@qa.com
 https://onedrive.live.com/?authkey=%21AFYQekW2mymFWWA&id=82887C4F49A97ED0%21140985&cid=82887C4F49A97ED0
 mimio NA

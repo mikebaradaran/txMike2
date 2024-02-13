@@ -18,7 +18,6 @@ getElement("mimeo").value = courseData[5];
 // setup combobox
 const cboValues = [
     { title: "Select an item", msg: '', timer: 0 },
-    { title: "clear messages", msg:"", link: txMikeClear, timer: 0 },
     { title: "Finish lab", msg: 'Please put a ✔ when you have completed the lab', timer: 0   },
     { title: "ready to start", msg: 'Please put a ✔ when you are ready to start 🏍',timer: 0  },
     { title: "Coffee", msg: 'Let\'s take a 15 minutes break ☕'  , timer:15        },

@@ -18,14 +18,20 @@
       table td:nth-child(2){
         width:500px;
       }
+      #clearButton{
+        font-size:large;
+      }
+      #clearButton:hover{
+        box-shadow:3px 3px 3px red;
+      }
     </style>
 </head>
 
 <body>
     <div id="messages"></div>
-    <button id="clearButton" onclick="sendCommand('clear')">
-      clear 
-    </button>
+    <span id="clearButton" onclick="sendCommand('clear')">
+      🪄
+    </span>
     <script>
         const serverURL = '<%= commonData.appName %>';
         const divMessages = document.getElementById("messages");

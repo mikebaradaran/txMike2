@@ -41,7 +41,12 @@
       
         const socket = io(serverURL);
         socket.on("connection");
-
+      
+        function encode(str) {
+            return String(str).replace(/[^\w. ]/gi, function (c) {
+                return '&#' + c.charCodeAt(0) + ';';
+            });
+        }
         function sendMessage() {
             if (txtName.value.trim().length == 0) {
                 alert('Please enter a name!')

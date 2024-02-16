@@ -23,7 +23,7 @@
 
 <body>
     <div id="messages"></div>
-    <button id="" onclick="sendCommand('clear')">
+    <button id="clearButton" onclick="sendCommand('clear')">
       clear
     </button>
     <script>
@@ -41,7 +41,7 @@
             });
 
             divMessages.innerHTML = messages + "</table>";
-            
+            document.getElementById("clearButton").style.display = (found)?"block":"none";  
           
         }
         

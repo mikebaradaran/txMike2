@@ -1,33 +1,27 @@
+.fl {
+    float: left;
+    width:60%;
+}
 .student {
     display: none;
     pointer-events: none;
 }
-
-.nopointers {
-    pointer-events: none;
-    /*   display:none; */
+#displayMessages {
+    margin: 15PX;
 }
-
-header, #timerContainer, #webex {
-    margin-left: 20px;
+header, #timerContainer {
     padding: 10px;
     border-radius: 10px;
 }
 
-header {
+header, #timerContainer {
     background-color: cadetblue;
     color: white;
+    height: 90px;
 }
 
 #courseTitle {
     margin-bottom: 0px;
-}
-
-#timerContainer {
-    font-size: x-large;
-    height: 50px;
-    background-color: cyan;
-    color: black;
 }
 
 svg {
@@ -36,19 +30,6 @@ svg {
     float: left;
     margin-left: 5px;
     margin-right: 40px;
-}
-
-#ticks {
-    transform: scale(0.8);
-    transform-origin: 0 0;
-    overflow: auto;
-    width: 25em;
-    height: 25em;
-    padding-left: 10px;
-}
-
-#message {
-    margin-left: 3em;
 }
 
 emoji {
@@ -60,7 +41,10 @@ emoji {
 }
 
 #timer {
-    width: 400px;
+    width: 350px;
+}
+#timerContainer{
+    font-size:x-large;
 }
 
 li:before {

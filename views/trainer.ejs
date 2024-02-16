@@ -22,14 +22,18 @@
         font-size:large;
       }
       #clearButton:hover{
-        box-shadow:3px 3px 3px red;
+        display:inline-block;
+        width:2em;
+        box-shadow:3px 3px 3px grey;
+        text-align:center;
+        border-radius:50%;
       }
     </style>
 </head>
 
 <body>
     <div id="messages"></div>
-    <span id="clearButton" onclick="sendCommand('clear')">
+    <span id="clearButton" onclick="sendCommand('clear')" title="Clear messages.">
       🪄
     </span>
     <script>
@@ -48,7 +52,6 @@
 
             divMessages.innerHTML = messages + "</table>";
             document.getElementById("clearButton").style.display = (found)?"block":"none";  
-          
         }
         
         function sendCommand(command) {

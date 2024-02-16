@@ -22,24 +22,27 @@
 </head>
 
 <body>
-    <div id="log"></div>
     <div id="messages"></div>
-    <button onclick="sendCommand('clear')">
+    <button id="" onclick="sendCommand('clear')">
       clear
     </button>
     <script>
         const serverURL = '<%= commonData.appName %>';
-      
         const divMessages = document.getElementById("messages");
 
         function displayData(data) {
+            var found = false;
+          
             let messages = '<table class="table table-bordered table-striped">';
 
             data.forEach((d) => {
                 messages += `<tr><td>${d.name}</td><td>${d.body}</td></tr>`;
+                found = true;
             });
 
             divMessages.innerHTML = messages + "</table>";
+            
+          
         }
         
         function sendCommand(command) {
@@ -57,7 +60,6 @@
         socket.on("message", (data) => {
             displayData(data);
         });
-        if(divMessages.innerHTML)
     </script>
 </body>
 </html>

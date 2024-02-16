@@ -18,7 +18,9 @@
         </svg>
         <h2 id="courseTitle">xxx</h2>
         <div id="trainerEmail">xxx</div>
-    <div id="timerContainer"  style="float:left">
+    </header>
+
+    <div id="timerContainer">
         <emoji>&#9200;</emoji>
         <input type="range" id="timer" value="0" min="0" max="60" oninput="this.nextElementSibling.value = this.value" />
         <output id="divTimer"></output>
@@ -27,17 +29,6 @@
         </span>
         <span id="message" onclick="this.innerHTML=''"></span>
     </div>
-    </header>
-
-<!--     <div id="timerContainer">
-        <emoji>&#9200;</emoji>
-        <input type="range" id="timer" value="0" min="0" max="60" oninput="this.nextElementSibling.value = this.value" />
-        <output id="divTimer"></output>
-        <span class="largeEmoji activeEmoji" onclick="startTimer('timer', 'divTimer')">
-            <emoji>&#127948;</emoji>
-        </span>
-        <span id="message" onclick="this.innerHTML=''"></span>
-    </div> -->
 
     <div style="float:left">
         <span>

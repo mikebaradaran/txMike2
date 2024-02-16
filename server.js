@@ -27,15 +27,21 @@ app.use((req, res, next) => {
 });
 
 // Define routes
+app.get("/", (req, res) => {
+  res.render("index");
+});
+
+app.get("/index", (req, res) => {
+  res.render("index");
+});
+
 app.get("/getpcs", (req, res) => {
   res.render("getpcs");
 });
 app.get("/all", (req, res) => {
   res.render("all");
 });
-app.get("/index", (req, res) => {
-  res.render("index");
-});
+
 app.get("/student", (req, res) => {
   res.render("student");
 });

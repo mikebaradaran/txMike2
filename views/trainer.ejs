@@ -22,6 +22,7 @@
 </head>
 
 <body>
+    <div id="log"></div>
     <div id="messages"></div>
     <button onclick="sendCommand('clear')">
       clear
@@ -44,7 +45,7 @@
         function sendCommand(command) {
             let msg = {
                 name: "trainer",
-                body: command,
+                body: command
             };
             socket.emit("message", msg);
         }
@@ -56,6 +57,7 @@
         socket.on("message", (data) => {
             displayData(data);
         });
+        if(divMessages.innerHTML)
     </script>
 </body>
 </html>

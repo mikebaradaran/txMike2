@@ -20,7 +20,7 @@
         <div id="trainerEmail">xxx</div>
     </header>
 
-    <div id="timerContainer">
+    <div id="timerContainer" forTrainer>
         <emoji>&#9200;</emoji>
         <input type="range" id="timer" value="0" min="0" max="60" oninput="this.nextElementSibling.value = this.value" />
         <output id="divTimer"></output>
@@ -60,7 +60,7 @@
                         <div>
                             <object id="studentMessages" data="<%= commonData.appName %>/student"></object>
                             <button onclick="afa()">AFA</button>
-                            <select id="cboMessages"></select>
+                            <select id="cboMessages" forTrainer></select>
                         </div>
                     </div>
                 <td></td>

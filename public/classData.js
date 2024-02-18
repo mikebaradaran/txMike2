@@ -10,7 +10,7 @@ Introduction to Software Development - Part 2
 ADXD2SD4M1B
 4802136-2x
 qa.webex025@qa.com
-https://onedrive.live.com/?authkey=%21AHvzQJGi6%5FzfeC0&id=82887C4F49A97ED0%21143095&cid=82887C4F49A97ED0
+https://1drv.ms/f/s!AtB-qUlPfIiCiN8q-2Pi1IulTwwYog?e=DIoMPe
 mimio NA
 `;
 

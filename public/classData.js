@@ -53,7 +53,7 @@ Turner, Kush
 Rollason-Hough, Dominic	
 Swarbrick, Joseph	
 Yousaf, Ibraheem	
-Whitehead, Christopher (REQS)	
+Whitehead, Christopher
 Kang, Hae Joo	
 Bulmer, Jack	
 Snape, Jack	

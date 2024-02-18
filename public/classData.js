@@ -14,7 +14,7 @@ https://1drv.ms/f/s!AtB-qUlPfIiCiN8q-2Pi1IulTwwYog?e=DIoMPe
 mimio NA
 `;
 
-var trainer = "Mike - mike.baradaran@qa.com";
+var trainer = "Mike Baradaran - mike.baradaran@qa.com";
 
 var passwords = `
 virtualroom26@qa.com

@@ -18,13 +18,13 @@ getElement("mimeo").value = courseData[5];
 // setup combobox
 const cboValues = [
     { title: "Select an item", msg: '', timer: 0 },
-    { title: "Finish lab", msg: 'Please put a ✔ when you have completed the lab', timer: 0   },
-    { title: "ready to start", msg: 'Please put a ✔ when you are ready to start 🏍',timer: 0  },
+    { title: "Finish lab", msg: 'Please put a ✔ when you have completed the lab', timer: -1   },
+    { title: "ready to start", msg: 'Please put a ✔ when you are ready to start 🏍',timer: -1  },
     { title: "Coffee", msg: 'Let\'s take a 15 minutes break ☕'  , timer:15        },
     { title: "Lunch", msg: 'Let\'s take 60 minutes for lunch 🍔', timer: 60        },
     { title: "mini break", msg: 'Let\'s take a 5 minutes mini break ☕', timer: 5  },
-    { title: "Comment", msg: "Please write comments about the course", link: commentsUrl, timer: 0 },
-    { title: "Evaluation", msg: "Please complete the course evaluation", link: evalLink , timer: 0 },
+    { title: "Comment", msg: "Please write comments about the course", link: commentsUrl, timer: -1 },
+    { title: "Evaluation", msg: "Please complete the course evaluation", link: evalLink , timer: -1 },
     { title: "Display intro", msg: "", timer: 0 }
 ];
 
@@ -40,7 +40,7 @@ cboMessages.addEventListener("change", () => {
     getElement("txtArea").value = cboValues[i].msg;
     if (cboValues[i].link)
         window.open(cboValues[i].link, '_blank');
-    if (cboValues[i].timer != 0) {
+    if (cboValues[i].timer != -1) {
         getElement("timer").value = cboValues[i].timer;
         startTimer('timer', 'divTimer');
     }
@@ -95,10 +95,14 @@ function stopTimer() {
         clearInterval(myTimer);
 }
 function startTimer(timerName, divCountdown) {
+    let mins = parseInt(getElement(timerName).value);
+  console.log(mins);
+    if(mins < 0)
+      return;
+  
     stopTimer();
     setMessage("");
 
-    let mins = parseInt(getElement(timerName).value);
     let seconds = mins * 60;
 
     myTimer = setInterval(function () {

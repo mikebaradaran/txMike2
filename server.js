@@ -5,6 +5,7 @@ const commentJS = require('./comments.js');
 const commonData = require("./common.js");
 
 const fs = require("fs");
+const cors = require("cors");
 // const path = require('path');
 const express = require("express");
 const app = express();
@@ -19,6 +20,14 @@ app.use(express.urlencoded({ extended: true }));
 
 // Serve static files from the "public" folder
 app.use(express.static("public"));
+
+const corsOptions = {
+  origin: '*',
+};
+
+app.use(cors(corsOptions));
+
+
 
 // Middleware to make common data accessible in all views
 app.use((req, res, next) => {

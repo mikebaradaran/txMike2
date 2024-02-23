@@ -8,7 +8,7 @@ const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashbo
 var courseData = `
 Introduction to Software Development - Part 2
 ADXD2SD4M1B
-4802136-2x
+4802136-23
 qa.webex025@qa.com
 https://1drv.ms/f/s!AtB-qUlPfIiCiN8q-2Pi1IulTwwYog?e=DIoMPe
 mimio NA

@@ -6,12 +6,12 @@ const audioFile = 'https://cdn.glitch.global/7ea2c2b4-d4b6-41d3-afca-c4c259b797b
 const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashboard?siteurl=qa-learning";
 
 var courseData = `
-Introduction to Software Development - Part 2
-ADXD2SD4M1B
-4802136-23
-qa.webex025@qa.com
-https://1drv.ms/f/s!AtB-qUlPfIiCiN8q-2Pi1IulTwwYog?e=DIoMPe
-mimio NA
+Microservices and APIs
+ADXD2SD4M6
+4753131-27
+qa.webex032@qa.com
+https://onedrive.live.com/?authkey=%21AAK2voS%2DJaM026o&id=82887C4F49A97ED0%21140142&cid=82887C4F49A97ED0
+GBTLJPI4I7BK
 `;
 
 var trainer = "Mike Baradaran - mike.baradaran@qa.com";
@@ -23,44 +23,42 @@ password878
 `;
 
 var pcs = `
-https://www.gotomypc.com/sc/1EC51C7D2C3060E9C7D8618D9D3752F5
-https://www.gotomypc.com/sc/11E026FDAFB9793A70A4F18D9D378454
-https://www.gotomypc.com/sc/D7FF2FDA83F02CEF8E3F218D9D385A2E
-https://www.gotomypc.com/sc/E1483E2AD474E5ABD4FCD18D9D38790C
-https://www.gotomypc.com/sc/2A9CB784D374FDD070E8518D9D389765
-https://www.gotomypc.com/sc/83DE814197B5D32C76FE718D9D38B82A
-https://www.gotomypc.com/sc/0D225A37EEB3A117DB22418D9D38E0BD
-https://www.gotomypc.com/sc/CBFF7525979F10BF11E0F18D9D3904CE
-https://www.gotomypc.com/sc/5DB2271E23BFABDC88E5C18D9D392520
-https://www.gotomypc.com/sc/B0F70B5F846AF25043CC418D9D379E26
-https://www.gotomypc.com/sc/6FBB904D8738A03FEA26718D9D39655F
-https://www.gotomypc.com/sc/111695472D12FAA95015D18D9D37C137
-https://www.gotomypc.com/sc/889B6081B916EC8116AC918D9D37EA1F
-https://www.gotomypc.com/sc/79A36BA0142E123A5A37818D9D380DBA
-https://www.gotomypc.com/sc/A8EDAD69F5CA0A94C8E3518D9D3A01C1
-https://www.gotomypc.com/sc/C500F93C5A9F4B0FD77E318D9D3A231A
-https://www.gotomypc.com/sc/0A65915AB76A533C0A21518D9D3A43B4
-https://www.gotomypc.com/sc/63F80435DAD169A52FA5918D9D3A649D
-https://www.gotomypc.com/sc/EB3E9818819B4FF00ACCB18D9D3A880C
+https://www.gotomypc.com/sc/760A1A649A5BBA17DBFCD18DC1578A8F
+https://www.gotomypc.com/sc/6220C6E2E109493545D5118DC15004AD
+https://www.gotomypc.com/sc/1E9B1281BC62D75EF693E18DC14FEC21
+https://www.gotomypc.com/sc/8510E49900755B545CB0C18DC150BF5C
+https://www.gotomypc.com/sc/E4C3C424FD9218B128A7918DC150E4F8
+https://www.gotomypc.com/sc/74E18A276194CC3BE997F18DC151079C
+https://www.gotomypc.com/sc/886E75F11122F44A77C2F18DC1513172
+https://www.gotomypc.com/sc/37C75359F8E0C3DDCCDEA18DC1515AF2
+https://www.gotomypc.com/sc/9CF9C0CAF8BC5BBEE3D0F18DC15180D6
+https://www.gotomypc.com/sc/076D2BE1E3FF266DBF60818DC1502779
+https://www.gotomypc.com/sc/A776A16A7ACC41A8623DB18DC151C5EB
+https://www.gotomypc.com/sc/625B887C4EE98ADDD7DD618DC151E5FF
+https://www.gotomypc.com/sc/CA2A8384C26DF83BBE7DF18DC1520C46
+https://www.gotomypc.com/sc/4C9FD991FAE7B5E81200D18DC15230EA
+https://www.gotomypc.com/sc/4CE2CFFBC0FB742C5354B18DC1525AAE
+https://www.gotomypc.com/sc/A2F546E1797DDDE606D9618DC1527FD7
+https://www.gotomypc.com/sc/B6B96D5425297A5AB90DB18DC1504FB4
+https://www.gotomypc.com/sc/285919875BE5005F8E28718DC152CA89
+
 `;
   
 var students = `
 Baradaran, Trainer
-Wraith, Lee	
-Adu-Baah, Joseph	
-Khan, Salman	
-Turner, Kush	
-Rollason-Hough, Dominic	
-Swarbrick, Joseph	
-Yousaf, Ibraheem	
-Whitehead, Christopher
-Kang, Hae Joo	
-Bulmer, Jack	
-Snape, Jack	S
-Sweetman, Ben	
-Tobin, Alex	
-Flitcroft, Ivan	
-Lewis, Joseph
-Baradaran, MikeB
+Tuncer, Baki	
+Jobe, Mustapha	
+Hamnett, Zack	
+Milovanovic, Filip	
+Ingham, Ashley	
+Marshall, Daniel	
+Owen, Caleb	
+Wilkinson, Joshua	
+Lu, Junpeng	
+Joubert, Johannes	
+Sheppard, Alexander	
+Akkas, Rabea	
+Popovs, Kirils	
+Collis, Louie
 `;
 

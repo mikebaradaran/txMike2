@@ -17,9 +17,9 @@ GBTLJPI4I7BK
 var trainer = "Mike Baradaran - mike.baradaran@qa.com";
 
 var passwords = `
-virtualroom26@qa.com
+virtualroom08@qa.com
 QAVirtualAccess1!
-password878
+password973
 `;
 
 var pcs = `

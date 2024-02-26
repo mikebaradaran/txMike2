@@ -44,6 +44,10 @@ app.get("/index", (req, res) => {
   res.render("index");
 });
 
+app.get("/timer", (req, res) => {
+  res.render("timer");
+});
+
 app.get("/getpcs", (req, res) => {
   res.render("getpcs");
 });

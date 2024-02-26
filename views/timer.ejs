@@ -2,8 +2,31 @@
   <head>
     <script src="timer.js" defer></script>
     <link href="txMike.css" rel="stylesheet" />
+    <style>
+    #timer {
+       width:100%;
+    }
+      
+    #timerContainer {
+      margin-left: 20px;
+      padding: 10px;
+      border-radius: 10px;
+
+      font-size: x-large;
+      height: 50px;
+      width:100%;
+      background-color: cyan;
+      color: black;
+    }
+
+#message {
+    margin-left: 3em;
+}
+
+    </style>
   </head>
-  <body><div id="timerContainer" forTrainer>
+  <body>
+    <div id="timerContainer" forTrainer>
         <emoji>&#9200;</emoji>
         <input type="range" id="timer" value="0" min="0" max="60" oninput="this.nextElementSibling.value = this.value" />
         <output id="divTimer"></output>

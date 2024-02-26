@@ -1,9 +1,12 @@
+const audioFile = 'https://cdn.glitch.global/7ea2c2b4-d4b6-41d3-afca-c4c259b797be/Alarm01.wav?v=1685964726574';
+
+
 var myTimer = null;
 function stopTimer() {
   if (myTimer !== null) clearInterval(myTimer);
 }
 function startTimer(timerName, divCountdown) {
-  let mins = parseInt(gdocument.getElementById(timerName).value);
+  let mins = parseInt(document.getElementById(timerName).value);
   console.log(mins);
   if (mins < 0) return;
 

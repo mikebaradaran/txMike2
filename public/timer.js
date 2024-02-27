@@ -1,6 +1,9 @@
 const audioFile = 'https://cdn.glitch.global/7ea2c2b4-d4b6-41d3-afca-c4c259b797be/Alarm01.wav?v=1685964726574';
-timer
-divTimer
+
+function setTime(mins){
+  document.getElementById('timer').value = mins;
+  startTimer();
+}
 
 var myTimer = null;
 function stopTimer() {
@@ -8,7 +11,6 @@ function stopTimer() {
 }
 function startTimer() {
   let mins = parseInt(document.getElementById('timer').value);
-  console.log(mins);
   if (mins < 0) return;
 
   stopTimer();
@@ -25,7 +27,7 @@ function startTimer() {
       new Audio(audioFile).play();
       return;
     }
-    document.getElementById('divTimer'.innerHTML = minutes + ":" + (seconds - minutes * 60);
+    document.getElementById('divTimer').innerHTML = minutes + ":" + (seconds - minutes * 60);
     seconds--;
   }, 1000);
 }

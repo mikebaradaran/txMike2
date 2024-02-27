@@ -1,81 +1,19 @@
-Ibraheem Yousaf<br /> 
+Kirils Popovs<br /> 
 General comments:<br />
-Ibraheem did well in this course and I am happy with Ibraheem's progress.<br />
-Ibraheem made the following comments about the course: The API/Ajax stuff was useful, especially since we've been looking into it at my workplace. Nothing in specific was less useful.<br /><br />Punctuality & Engagement:<br />
-Ibraheem was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Kirils did well in this course and I am happy with Kirils's progress.<br />
+Kirils made the following comments about the course: All of them, I am not very experienced with Amazon architecture so this was very thorough and engaging. Definitely one of the best courses on the apprenticeship scheme.<br /><br />Punctuality & Engagement:<br />
+Kirils was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Web development coding and design at work.<br /> When I asked what to do after the course, Ibraheem told me: Look more into Angularjs which I haven't had prior experience in.<br /><br />--------------------------------<br />Ivan Flitcroft<br /> 
-General comments:<br />
-Ivan did well in this course and I am happy with Ivan's progress.<br />
-Ivan made the following comments about the course: AJAX, Jquery and Angular were most useful however each topic is useful in order to gain understanding of the fundamentals.<br /><br />Punctuality & Engagement:<br />
-Ivan was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
-Recommendations for further learning:<br />
-Practice implementing Web development coding and design at work.<br /> When I asked what to do after the course, Ivan told me: More projects using free public API's and handling those HTTP requests. Looking at more code examples and watching some youtube videos on angular<br /><br />--------------------------------<br />chris w<br /> 
-General comments:<br />
-chris did well in this course and I am happy with chris's progress.<br />
-chris made the following comments about the course: Ajax<br /><br />Punctuality & Engagement:<br />
-chris was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
-Recommendations for further learning:<br />
-Practice implementing Web development coding and design at work.<br /> When I asked what to do after the course, chris told me: practice more<br /><br />--------------------------------<br />Joe Swarbrick<br /> 
+Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Kirils told me: My project uses AWS console for EC2 instances to keep servers up for prod environments so most of my post course exposure will be on that.<br /><br />--------------------------------<br />Joe Joubert<br /> 
 General comments:<br />
 Joe did well in this course and I am happy with Joe's progress.<br />
-Joe made the following comments about the course: Less useful was the HTML and CSS basics as I've been doing that for over 15 years, but that's subjective. <br />
-The JavaScript stuff was very useful and I can apply this to both front and back end projects for the future.<br /><br />Punctuality & Engagement:<br />
-Joe was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Joe made the following comments about the course: Creating docking containers, using Amazon ECR was really useful<br /><br />Punctuality & Engagement:<br />
+Joe was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Web development coding and design at work.<br /> When I asked what to do after the course, Joe told me: I would like to look at newer versions of Angular that use Type Script and see how this would measure up against our current use of REACT for SPAs in my work place.<br /><br />--------------------------------<br />Joeseph Lewis<br /> 
-General comments:<br />
-Joeseph did well in this course and I am happy with Joeseph's progress.<br />
-Joeseph made the following comments about the course: I found learning jQuery really useful because we use it at work but I did not know it before this course. I feel that it was less useful learning JavaScript basics but only because I knew it before, but it was still good to go over it.<br /><br />Punctuality & Engagement:<br />
-Joeseph was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
-Recommendations for further learning:<br />
-Practice implementing Web development coding and design at work.<br /> When I asked what to do after the course, Joeseph told me: I want to start using jQuery more at work and practice more AJAX.<br /><br />--------------------------------<br />Jack Bulmer<br /> 
-General comments:<br />
-Jack did well in this course and I am happy with Jack's progress.<br />
-Jack made the following comments about the course: The html, css and JavaScript I found not to be useful simply because I already knew them to the extent that was being taught. Everything else was super useful.<br /><br />Punctuality & Engagement:<br />
-Jack was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
-Recommendations for further learning:<br />
-Practice implementing Web development coding and design at work.<br /> When I asked what to do after the course, Jack told me: Try to implement these new topics in my work or in my personal time when working on projects.<br /><br />--------------------------------<br />Hae Joo Kang<br /> 
-General comments:<br />
-Hae did well in this course and I am happy with Hae's progress.<br />
-Hae made the following comments about the course: Ajax and AngularJS were useful while I find the HTML part not so useful. <br /><br />Punctuality & Engagement:<br />
-Hae was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
-Recommendations for further learning:<br />
-Practice implementing Web development coding and design at work.<br /> When I asked what to do after the course, Hae told me: I found Angular very interesting. As it is not used at my work, I will be practicing with tutorials during my spare times. <br /><br />--------------------------------<br />Alex Tobin<br /> 
+Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Joe told me: Creating docker images and deploy them<br /><br />--------------------------------<br />Alex Sheppard<br /> 
 General comments:<br />
 Alex did well in this course and I am happy with Alex's progress.<br />
-Alex made the following comments about the course: I found that JQuery and Angular were the most useful topics that I learned. As I enjoyed how dynamic the web pages became. Same with Ajax, which I really enjoyed using bits of data from a web page. <br />
-The topics that I found less useful was HTML, as I had already done alot of HTML before, but it was a nice refresher.<br /><br />Punctuality & Engagement:<br />
-Alex was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Alex made the following comments about the course: Docker/Containerisation were the most useful<br /><br />Punctuality & Engagement:<br />
+Alex was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Web development coding and design at work.<br /> When I asked what to do after the course, Alex told me: I think I will practice Ajax, Angular and JQuery, as these are quite new to me but I really enjoyed learning about them. <br /><br />--------------------------------<br />Ben Sweetman<br /> 
-General comments:<br />
-Ben did well in this course and I am happy with Ben's progress.<br />
-Ben made the following comments about the course: Only previously knew a little bit about web development in React, so understanding the underlying HTML was very useful for my understanding. I also previously knew nothing about AngularJS and JQuery so I enjoyed learning about them, even if they aren't used in my work. <br /><br />Punctuality & Engagement:<br />
-Ben was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
-Recommendations for further learning:<br />
-Practice implementing Web development coding and design at work.<br /> When I asked what to do after the course, Ben told me: Probably read up on, practise and experiment with these libraries a bit more.<br /><br />--------------------------------<br />kush turner<br /> 
-General comments:<br />
-kush did well in this course and I am happy with kush's progress.<br />
-kush made the following comments about the course: useful: angular<br />less useful: jquery<br /><br />Punctuality & Engagement:<br />
-kush was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
-Recommendations for further learning:<br />
-Practice implementing Web development coding and design at work.<br /> When I asked what to do after the course, kush told me: typescript<br /><br />--------------------------------<br />Lee Wraith<br /> 
-General comments:<br />
-Lee did well in this course and I am happy with Lee's progress.<br />
-Lee made the following comments about the course: All of this course was useful as I have no proper skills / knowledge in any of it. Ajax and Angular look very useful regards what work want from me. The was nothing about this course that was less useful.<br /><br />Punctuality & Engagement:<br />
-Lee was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
-Recommendations for further learning:<br />
-Practice implementing Web development coding and design at work.<br /> When I asked what to do after the course, Lee told me: I've asked for all the recordings of these lessons so I'll go back over them and try to take more of it in, in my own time. More practice, simple as.<br /><br />--------------------------------<br />Joseph Adu-Baah<br /> 
-General comments:<br />
-Joseph did well in this course and I am happy with Joseph's progress.<br />
-Joseph made the following comments about the course: While I found the whole course very useful, as this was my introduction to the topic, I found Loops and the JavaScript Modules very useful after coming across something similar at work previously, I didn’t find anything not useful<br /><br />Punctuality & Engagement:<br />
-Joseph was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
-Recommendations for further learning:<br />
-Practice implementing Web development coding and design at work.<br /> When I asked what to do after the course, Joseph told me: I think more experimentation is needed, this was my introduction to art of these topics so its making sure the topics stay fresh in my mind<br /><br />--------------------------------<br />Salman Khan<br /> 
-General comments:<br />
-Salman did well in this course and I am happy with Salman's progress.<br />
-Salman made the following comments about the course: angular and ajax was useful<br />less useful, plain javascript as I know it<br /><br />Punctuality & Engagement:<br />
-Salman was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
-Recommendations for further learning:<br />
-Practice implementing Web development coding and design at work.<br /> When I asked what to do after the course, Salman told me: typescript<br /><br />--------------------------------<br />
+Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Alex told me: I'm adding to my personal L&D goals to build and deploy a small test application using Docker, and my department's AWS based hosting infrastructure.  <br /><br />--------------------------------<br />

@@ -1,6 +1,6 @@
 function processComment(name, comment1, comment2) {
-  const duration = "5";
-  const courseTitle = "Web development coding";
+  const duration = "2";
+  const courseTitle = "Microservices";
 
   let firstname = name.split(" ")[0];
   let com1 = "";

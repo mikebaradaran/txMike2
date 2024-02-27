@@ -34,4 +34,10 @@ Ashley did well in this course and I am happy with Ashley's progress.<br />
 Ashley made the following comments about the course: Acquiring knowledge about the construction of APIs and microservices, as I lacked clarity on their fundamental concepts.<br /><br />Punctuality & Engagement:<br />
 Ashley was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Ashley told me: To enhance my skills after completing the course, I will be engaging in hands-on practice by building projects, collaborating with peers and actively seeking opportunities to apply my newfound knowledge in real-world scenarios.<br /><br />--------------------------------<br />
+Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Ashley told me: To enhance my skills after completing the course, I will be engaging in hands-on practice by building projects, collaborating with peers and actively seeking opportunities to apply my newfound knowledge in real-world scenarios.<br /><br />--------------------------------<br />Mustapha Jobe<br /> 
+General comments:<br />
+Mustapha did well in this course and I am happy with Mustapha's progress.<br />
+Mustapha made the following comments about the course: I found the API Gateway & Lambda functions most useful because I followed a guide before in order to create a webhook and because of that I didn't get much of an explanation on how they work. So it was useful learning about them<br /><br />Punctuality & Engagement:<br />
+Mustapha was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Mustapha told me: I think I need to look into the Azure equivalent of things like the API Gateway, Lambda functions, Containers etc. Since currently that's what my company uses.<br /><br />--------------------------------<br />

@@ -1,4 +1,6 @@
 const audioFile = 'https://cdn.glitch.global/7ea2c2b4-d4b6-41d3-afca-c4c259b797be/Alarm01.wav?v=1685964726574';
+timer
+divTimer
 
 var myTimer = null;
 function stopTimer() {

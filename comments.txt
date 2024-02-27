@@ -16,4 +16,16 @@ Alex did well in this course and I am happy with Alex's progress.<br />
 Alex made the following comments about the course: Docker/Containerisation were the most useful<br /><br />Punctuality & Engagement:<br />
 Alex was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Alex told me: I'm adding to my personal L&D goals to build and deploy a small test application using Docker, and my department's AWS based hosting infrastructure.  <br /><br />--------------------------------<br />
+Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Alex told me: I'm adding to my personal L&D goals to build and deploy a small test application using Docker, and my department's AWS based hosting infrastructure.  <br /><br />--------------------------------<br />Daniel Marshall<br /> 
+General comments:<br />
+Daniel did well in this course and I am happy with Daniel's progress.<br />
+Daniel made the following comments about the course: Great course, learning about microservices architecture was really helpful it will help me to build scalable, flexible, and independently deployable software applications<br /><br />Punctuality & Engagement:<br />
+Daniel was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Microservices and design at work.<br /> <br />--------------------------------<br />Joshua Wilkinson<br /> 
+General comments:<br />
+Joshua did well in this course and I am happy with Joshua's progress.<br />
+Joshua made the following comments about the course: I found learning more about how microservices work to be most useful because I am interested in how they work<br /><br />Punctuality & Engagement:<br />
+Joshua was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Joshua told me: I would like to become more proficient in setting up services in a container with all of its dependencies, and learn how to implement this in a real scenario<br /><br />--------------------------------<br />

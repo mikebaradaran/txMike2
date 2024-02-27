@@ -6,8 +6,8 @@ var myTimer = null;
 function stopTimer() {
   if (myTimer !== null) clearInterval(myTimer);
 }
-function startTimer(timerName, divCountdown) {
-  let mins = parseInt(document.getElementById(timerName).value);
+function startTimer() {
+  let mins = parseInt(document.getElementById('timer').value);
   console.log(mins);
   if (mins < 0) return;
 
@@ -25,8 +25,7 @@ function startTimer(timerName, divCountdown) {
       new Audio(audioFile).play();
       return;
     }
-    document.getElementById(divCountdown).innerHTML =
-      minutes + ":" + (seconds - minutes * 60);
+    document.getElementById('divTimer'.innerHTML = minutes + ":" + (seconds - minutes * 60);
     seconds--;
   }, 1000);
 }

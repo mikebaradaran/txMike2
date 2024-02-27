@@ -46,4 +46,16 @@ Zack did well in this course and I am happy with Zack's progress.<br />
 Zack made the following comments about the course: The communication topic of microservices was most useful.<br /><br />Punctuality & Engagement:<br />
 Zack was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Zack told me: Begin to use them within my work.<br /><br />--------------------------------<br />
+Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Zack told me: Begin to use them within my work.<br /><br />--------------------------------<br />Baki Tuncer<br /> 
+General comments:<br />
+Baki did well in this course and I am happy with Baki's progress.<br />
+Baki made the following comments about the course: It helped me gain practical knowledge through extensive practice and research<br /><br />Punctuality & Engagement:<br />
+Baki was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Baki told me: I need to improve my Devops and Cloud knowledge <br /><br />--------------------------------<br />Junpeng Lu<br /> 
+General comments:<br />
+Junpeng did well in this course and I am happy with Junpeng's progress.<br />
+Junpeng made the following comments about the course: I found applying and learning more about Docker and Microservices useful. I found some of the labs being less useful due not having the correct permission to complete them.<br /><br />Punctuality & Engagement:<br />
+Junpeng was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Junpeng told me: I will continue to use and maintain microservices in my role and explore the use case for dockers in my workplace.<br /><br />--------------------------------<br />

@@ -1,4 +1,4 @@
-
+/*  */
 .student {
     display: none;
     pointer-events: none;
@@ -61,7 +61,7 @@ emoji {
 }
 
 #timer {
-    width: 400px;
+    width: 600px;
 }
 
 li:before {

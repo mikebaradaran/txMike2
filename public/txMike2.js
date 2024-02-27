@@ -47,12 +47,9 @@ cboMessages.addEventListener("change", () => {
   if (cboTime == -1) return;
 
   if (cboTime == 0) {
-    stopTimer();
-    getElement("divTimer").innerHTML = "";
-    setMessage("");
+   setTimer(0);
   } else {
-    getElement("timer").value = cboTime;
-    startTimer("timer", "divTimer");
+    setTimer(cboTime);
   }
 });
 
@@ -66,7 +63,9 @@ students.forEach((stu, i) => {
   li.appendChild(a);
   ol.appendChild(li);
 });
-
+function setTimer(mins){
+  document.getElementById('timer').contentWindow.setTime(mins);
+}
 document.querySelectorAll("input").forEach((txt) =>
   txt.addEventListener("click", (event) => {
     event.target.select();

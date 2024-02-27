@@ -28,4 +28,10 @@ Joshua did well in this course and I am happy with Joshua's progress.<br />
 Joshua made the following comments about the course: I found learning more about how microservices work to be most useful because I am interested in how they work<br /><br />Punctuality & Engagement:<br />
 Joshua was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Joshua told me: I would like to become more proficient in setting up services in a container with all of its dependencies, and learn how to implement this in a real scenario<br /><br />--------------------------------<br />
+Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Joshua told me: I would like to become more proficient in setting up services in a container with all of its dependencies, and learn how to implement this in a real scenario<br /><br />--------------------------------<br />Ashley Ingham<br /> 
+General comments:<br />
+Ashley did well in this course and I am happy with Ashley's progress.<br />
+Ashley made the following comments about the course: Acquiring knowledge about the construction of APIs and microservices, as I lacked clarity on their fundamental concepts.<br /><br />Punctuality & Engagement:<br />
+Ashley was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Microservices and design at work.<br /> When I asked what to do after the course, Ashley told me: To enhance my skills after completing the course, I will be engaging in hands-on practice by building projects, collaborating with peers and actively seeking opportunities to apply my newfound knowledge in real-world scenarios.<br /><br />--------------------------------<br />

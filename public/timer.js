@@ -14,7 +14,7 @@ function startTimer() {
   if (mins < 0) return;
 
   stopTimer();
-  setMessage("");
+  showTime("");
 
   let seconds = mins * 60;
 
@@ -23,7 +23,7 @@ function startTimer() {
 
     if (seconds < 0) {
       stopTimer();
-      setMessage(mins + " minutes passed. Ended at " + getTime());
+      showTime(mins + " minutes passed. Ended at " + getTime());
       new Audio(audioFile).play();
       return;
     }
@@ -32,7 +32,7 @@ function startTimer() {
   }, 1000);
 }
 
-function setMessage(msg) {
+function showTime(msg){
   document.getElementById("message").innerHTML = msg;
 }
 

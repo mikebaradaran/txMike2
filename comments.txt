@@ -1,0 +1,43 @@
+Rohan Johnson<br /> 
+General comments:<br />
+Rohan did well in this course and I am happy with Rohan's progress.<br />
+Rohan made the following comments about the course: I've had experience with React before so this module was less useful to me. However it has been quite a while since I've used React so it was useful as a refresher.<br /><br />Punctuality & Engagement:<br />
+Rohan was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web sites using React at work.<br /> When I asked what to do after the course, Rohan told me: Keep making hobby projects<br /><br />--------------------------------<br />Matthew Maiden<br /> 
+General comments:<br />
+Matthew did well in this course and I am happy with Matthew's progress.<br />
+Matthew made the following comments about the course: React and javascript as they are areas im trying to better myself in<br /><br />Punctuality & Engagement:<br />
+Matthew was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web sites using React at work.<br /> When I asked what to do after the course, Matthew told me: Keep learning Javascript<br /><br />--------------------------------<br />Aaron Ballagan<br /> 
+General comments:<br />
+Aaron did well in this course and I am happy with Aaron's progress.<br />
+Aaron made the following comments about the course: I found everything on the course relevant to React. The refresher course was as succinct as it needed to be. <br /><br />Punctuality & Engagement:<br />
+Aaron was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web sites using React at work.<br /> When I asked what to do after the course, Aaron told me: Use the internet to find articles and videos to learn more about React, and try to make a project using React as the frontend.<br /><br />--------------------------------<br />Tia Nahal<br /> 
+General comments:<br />
+Tia did well in this course and I am happy with Tia's progress.<br />
+Tia made the following comments about the course: I found the day on React really helpful and useful as it was completely new to me.<br /><br />Punctuality & Engagement:<br />
+Tia was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web sites using React at work.<br /> When I asked what to do after the course, Tia told me: I think I should practice more in regards to react and connecting the nodes etc<br /><br />--------------------------------<br />Robert Angelitud<br /> 
+General comments:<br />
+Robert did well in this course and I am happy with Robert's progress.<br />
+Robert made the following comments about the course: React walkthrough on day 2 was most useful, HTML5 on day 1 was less useful as I'd done much of it before. <br /><br />Punctuality & Engagement:<br />
+Robert was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web sites using React at work.<br /> When I asked what to do after the course, Robert told me: Build a larger react app/ explore linking databases to react app<br /><br />--------------------------------<br />Margaret (Malgorzata) Kaminska<br /> 
+General comments:<br />
+Margaret did well in this course and I am happy with Margaret's progress.<br />
+Margaret made the following comments about the course: I find the step-by-step building of the app very useful as you can see a big picture of what the complete app should include, in particular routing and hooks.<br /><br />Punctuality & Engagement:<br />
+Margaret was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web sites using React at work.<br /> When I asked what to do after the course, Margaret told me: To improve my skills I should go through the concepts from the course again and see their use in other projects (to gain the full understanding).<br /><br />--------------------------------<br />Anna Wrzosek<br /> 
+General comments:<br />
+Anna did well in this course and I am happy with Anna's progress.<br />
+Anna made the following comments about the course: I found the introduction to React quite useful as I did not have much experience with it.<br />For me the HTML, CSS and JavaScript recap was not very useful.<br /><br />Punctuality & Engagement:<br />
+Anna was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web sites using React at work.<br /> When I asked what to do after the course, Anna told me: I need more practice with hooks and creating components with hooks.<br /><br />--------------------------------<br />

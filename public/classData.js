@@ -3,8 +3,8 @@ const site = document.getElementById('site').innerHTML;
 const txMikeClear = `${site}/clear`;
 const commentsUrl = `${site}/comments`; 
 const audioFile = 'https://cdn.glitch.global/7ea2c2b4-d4b6-41d3-afca-c4c259b797be/Alarm01.wav?v=1685964726574';
-// const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashboard?siteurl=qa-learning";
-const afaPath = "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjY4M2NiZTktYzJjMS00MTVkLTg1ZTktOGNkOWQzOTA3MWFl%40thread.v2/0?context=%7b%22Tid%22%3a%229c220797-c337-49f8-b086-a9a24979f728%22%2c%22Oid%22%3a%2246d9b67a-17db-40c3-ac50-6ec37a29497b%22%7d";
+const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashboard?siteurl=qa-learning";
+// const afaPath = "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjY4M2NiZTktYzJjMS00MTVkLTg1ZTktOGNkOWQzOTA3MWFl%40thread.v2/0?context=%7b%22Tid%22%3a%229c220797-c337-49f8-b086-a9a24979f728%22%2c%22Oid%22%3a%2246d9b67a-17db-40c3-ac50-6ec37a29497b%22%7d";
 var courseData = `
 Python Programming and SQL Principles
 ADXD2SD3M3

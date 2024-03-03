@@ -1,3 +1,7 @@
+*{
+  border:1px solid red;
+}
+
 .student {
     display: none;
     pointer-events: none;
@@ -75,9 +79,8 @@ ol {
     counter-reset: li;
 }
 
-#displayMessages{
-  display:inline-block;
-  margin:15px;
+.MessagesDiv{
+  margin-left:15px;
 }
 
 div.passwords > span {

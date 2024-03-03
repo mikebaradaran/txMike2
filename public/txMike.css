@@ -1,6 +1,3 @@
-*{
-  border:1px solid red;
-}
 
 .student {
     display: none;
@@ -32,6 +29,7 @@ header {
     height: 50px;
     background-color: cyan;
     color: black;
+    margin-top:0px;
 }
 
 svg {
@@ -80,7 +78,9 @@ ol {
 }
 
 .MessagesDiv{
-  margin-left:15px;
+  clear:left; 
+  display:inline-block; 
+  margin-left:50px;
 }
 
 div.passwords > span {

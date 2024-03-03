@@ -76,6 +76,7 @@ ol {
 }
 
 #displayMessages{
+  display:inline-block;
   margin:15px;
 }
 
@@ -107,6 +108,6 @@ a {
     background-color: lightgoldenrodyellow;
     border-radius: 5px;
     box-shadow: 2px 2px 4px grey;
-    margin-bottom: 5px;
+    margin-left: 15px;
     width: 100%;
 }

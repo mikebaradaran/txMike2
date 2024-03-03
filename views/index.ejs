@@ -7,9 +7,6 @@
     <link href="txMike.css" rel="stylesheet" />
     <script src="classData.js" defer></script>
     <script src="txMike.js" defer></script>
-  <style>
-    *{ border:1px dashed red;}
-  </style>
 </head>
 <body>
     <div id="site" style="display:none;"><%= commonData.appName %></div>
@@ -23,17 +20,18 @@
         <h2 id="courseTitle">xxx</h2>
         <div id="trainerEmail">xxx</div>
     </header>
-    <div style="float:left">
+      <br />
+    <div style="float:left;">
 
-    <div id="timerContainer">
-        <emoji>&#9200;</emoji>
-        <input type="range" id="timer" value="0" min="0" max="60" oninput="this.nextElementSibling.value = this.value" />
-        <output id="divTimer"></output>
-        <span class="largeEmoji activeEmoji" onclick="startTimer('timer', 'divTimer')">
-            <emoji>&#127948;</emoji>
-        </span>
-        <span id="message" onclick="this.innerHTML=''"></span>
-    </div>
+      <div id="timerContainer">
+          <emoji>&#9200;</emoji>
+          <input type="range" id="timer" value="0" min="0" max="60" oninput="this.nextElementSibling.value = this.value" />
+          <output id="divTimer"></output>
+          <span class="largeEmoji activeEmoji" onclick="startTimer('timer', 'divTimer')">
+              <emoji>&#127948;</emoji>
+          </span>
+          <span id="message" onclick="this.innerHTML=''"></span>
+      </div>
 
         <a href="http://qa.somee.com/intro" target="_blank">
             <emoji class="largeEmoji">🧑</emoji>

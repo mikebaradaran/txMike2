@@ -34,7 +34,7 @@ header {
 
 svg {
     width: 90px;
-    height: 90px;
+    height: 70px;
     float: left;
     margin-left: 5px;
     margin-right: 40px;
@@ -49,9 +49,9 @@ svg {
     padding-left: 10px;
 }
 
-#message {
+/* #message {
     margin-left: 3em;
-}
+} */
 
 emoji {
     font-size: x-large;

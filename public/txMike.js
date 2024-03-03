@@ -28,7 +28,7 @@ const cboValues = [
   { title: "mini break", msg: "Let's take a 5 minutes mini break ☕",  timer: 5  },
   { title: "Comment",   msg: "Please write comments about the course", link: commentsUrl, timer: -1 },
   { title: "Evaluation",  msg: "Please complete the course evaluation", link: evalLink,   timer: -1 },
-  { title: "Display intro", msg: "", timer: -1 }
+  { title: "Display intro", link:"http://qa.somee.com/intro/display.aspx", msg: "", timer: -1 }
 ];
 
 var cboMessages = getElement("cboMessages");

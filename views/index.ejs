@@ -3,13 +3,13 @@
 <html>
 <head>
     <title>txMike2</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="txMike.css" rel="stylesheet" />
     <script src="classData.js" defer></script>
     <script src="txMike.js" defer></script>
 </head>
 <body>
-  <div id="site" style="display:none;" ><%= commonData.appName %></div>
+    <div id="site" style="display:none;"><%= commonData.appName %></div>
     <header>
         <svg viewbox="0 0 607.822 420.405">
             <g transform="translate(-117 -97.862)">
@@ -32,41 +32,30 @@
     </div>
 
     <div style="float:left">
-        <span>
-            <a href="http://qa.somee.com/intro" target="_blank">
-                <emoji class="largeEmoji">🧑</emoji>
-                Introduction
-            </a>
-        </span>
+        <a href="http://qa.somee.com/intro" target="_blank">
+            <emoji class="largeEmoji">🧑</emoji>
+            Introduction
+        </a>
 
-        <span>
-            <a id="courseMaterial" style="margin-left: 5px;" href="" target="_blank">
-                <emoji>&#128218</emoji>
-                Course material
-            </a>
-        </span>
-
-        <table>
-            <tr>
-                <td>
-                    <div id="pcsContainer">
-                        <div id="passwords">
-                            <span>Email:</span><input id="email" />
-                            <span>Pass1:</span><input id="password1" />
-                            <span>Pass2:</span><input id="password2" />
-                            <span>Mimeo:</span><input id="mimeo" />
-                        </div>
-                        <ol id="pcs"></ol>
-                        <textarea id="txtArea" cols="65" rows="3"></textarea>
-                        <div>
-                            <object id="studentMessages" data="<%= commonData.appName %>/student"></object>
-                            <button onclick="afa()">AFA</button>
-                            <select id="cboMessages" forTrainer></select>
-                        </div>
-                    </div>
-                <td></td>
-            </tr>
-        </table>
+        <a id="courseMaterial" style="margin-left: 5px;" href="" target="_blank">
+            <emoji>&#128218</emoji>
+            Course material
+        </a>
+        <div id="pcsContainer">
+            <div id="passwords">
+                <span>Email:</span><input id="email" />
+                <span>Pass1:</span><input id="password1" />
+                <span>Pass2:</span><input id="password2" />
+                <span>Mimeo:</span><input id="mimeo" />
+            </div>
+            <ol id="pcs"></ol>
+            <textarea id="txtArea" cols="65" rows="3"></textarea>
+            <div>
+                <object id="studentMessages" data="<%= commonData.appName %>/student"></object>
+                <button onclick="afa()">AFA</button>
+                <select id="cboMessages" forTrainer></select>
+            </div>
+        </div>
     </div>
     <object id="displayMessages" data="<%= commonData.appName %>/trainer" height="650"></object>
 </body>

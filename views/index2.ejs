@@ -3,11 +3,10 @@
 <html>
 <head>
     <title>txMike2</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="txMike.css" rel="stylesheet" />
     <script src="classData.js" defer></script>
-    <script src="txMike2.js" defer></script>
-  <style>
-  </style>
+    <script src="txMike.js" defer></script>
 </head>
 <body>
   <div id="site" style="display:none;" ><%= commonData.appName %></div>
@@ -21,7 +20,17 @@
         <h2 id="courseTitle">xxx</h2>
         <div id="trainerEmail">xxx</div>
     </header>
-<br />
+
+    <div id="timerContainer" forTrainer>
+        <emoji>&#9200;</emoji>
+        <input type="range" id="timer" value="0" min="0" max="60" oninput="this.nextElementSibling.value = this.value" />
+        <output id="divTimer"></output>
+        <span class="largeEmoji activeEmoji" onclick="startTimer('timer', 'divTimer')">
+            <emoji>&#127948;</emoji>
+        </span>
+        <span id="message" onclick="this.innerHTML=''"></span>
+    </div>
+
     <div style="float:left">
         <span>
             <a href="http://qa.somee.com/intro" target="_blank">
@@ -51,10 +60,8 @@
                         <textarea id="txtArea" cols="65" rows="3"></textarea>
                         <div>
                             <object id="studentMessages" data="<%= commonData.appName %>/student"></object>
-      <object data="<%= commonData.appName %>/timer" id="timer"></object><br />
                             <button onclick="afa()">AFA</button>
                             <select id="cboMessages" forTrainer></select>
-                          
                         </div>
                     </div>
                 <td></td>

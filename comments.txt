@@ -10,4 +10,10 @@ Bimal did well in this course and I am happy with Bimal's progress.<br />
 Bimal made the following comments about the course: Topics I found useful are collection, files, Regex and relational databases<br /><br />Punctuality & Engagement:<br />
 Bimal was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, Bimal told me: To do more practice and create my own personal projects. In my current role we do not use python.<br /><br />--------------------------------<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, Bimal told me: To do more practice and create my own personal projects. In my current role we do not use python.<br /><br />--------------------------------<br />David Rowlands<br /> 
+General comments:<br />
+David did well in this course and I am happy with David's progress.<br />
+David made the following comments about the course: I found every topic to be useful that was taught regarding python and SQL. Mike was excellent as a teacher. <br /><br />Punctuality & Engagement:<br />
+David was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, David told me: practice python and SQL that has been taught to make my understanding more clearer so it comes more common knowledge to me. <br /><br />--------------------------------<br />

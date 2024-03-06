@@ -4,4 +4,10 @@ Jackson did well in this course and I am happy with Jackson's progress.<br />
 Jackson made the following comments about the course: I found the general intriduction to python very helpful as it could show what the language could do. I found the regex less useful, as I found it complicated to read and not sure when I would use it.<br /><br />Punctuality & Engagement:<br />
 Jackson was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, Jackson told me: I will continue to practice the topics covered, especially calling functions from other files.<br /><br />--------------------------------<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, Jackson told me: I will continue to practice the topics covered, especially calling functions from other files.<br /><br />--------------------------------<br />Bimal shah<br /> 
+General comments:<br />
+Bimal did well in this course and I am happy with Bimal's progress.<br />
+Bimal made the following comments about the course: Topics I found useful are collection, files, Regex and relational databases<br /><br />Punctuality & Engagement:<br />
+Bimal was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, Bimal told me: To do more practice and create my own personal projects. In my current role we do not use python.<br /><br />--------------------------------<br />

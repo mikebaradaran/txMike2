@@ -16,4 +16,58 @@ David did well in this course and I am happy with David's progress.<br />
 David made the following comments about the course: I found every topic to be useful that was taught regarding python and SQL. Mike was excellent as a teacher. <br /><br />Punctuality & Engagement:<br />
 David was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, David told me: practice python and SQL that has been taught to make my understanding more clearer so it comes more common knowledge to me. <br /><br />--------------------------------<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, David told me: practice python and SQL that has been taught to make my understanding more clearer so it comes more common knowledge to me. <br /><br />--------------------------------<br />Ryan Howard Lenton<br /> 
+General comments:<br />
+Ryan did well in this course and I am happy with Ryan's progress.<br />
+Ryan made the following comments about the course: I found the SQL topic useful, I learnt a lot about SQL and how to use it to interact with databases. A lot of the python topics I already had an understanding of, so these were less useful, but I was able to reinforce what I knew and learnt a few new aspects of python<br /><br />Punctuality & Engagement:<br />
+Ryan was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, Ryan told me: To improve my skills, I can go on to use my new knowledge in the workplace to improve my understanding. Especially with the SQL area as this is used a lot.  <br /><br />--------------------------------<br />Stephen Clarke<br /> 
+General comments:<br />
+Stephen did well in this course and I am happy with Stephen's progress.<br />
+Stephen made the following comments about the course: I found the Python topic to be very informative, maybe a little confusing at times as a new language to me. But I liked the functions and how to set them, so they can be called into the program being created. I just need to practice Python more in order to learn the syntax and how it bolts together, but overall the Python was very good. SQL part was good - I do know some SQL but Mike did explain the JOIN/LEFT OUTER JOIN differences which i found very useful<br /><br />Punctuality & Engagement:<br />
+Stephen was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, Stephen told me: Practice, practice, practice..... Python in particular. <br /><br />--------------------------------<br />Michael Ehinze<br /> 
+General comments:<br />
+Michael did well in this course and I am happy with Michael's progress.<br />
+Michael made the following comments about the course: Everything was useful, even SQL which I already have some experience in. Learning about Python was really informative and gave me some exposure to back end programming.<br /><br />Punctuality & Engagement:<br />
+Michael was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, Michael told me: I should keep practicing with SQL to upskill my abilities, and get more familiar with Python or something similar<br /><br />--------------------------------<br />Jack Shaw<br /> 
+General comments:<br />
+Jack did well in this course and I am happy with Jack's progress.<br />
+Jack made the following comments about the course: I found the SQL topics mainly useful as I use them at my work.<br /><br />Punctuality & Engagement:<br />
+Jack was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, Jack told me: I think I need to continue to do my own research after the lesson so that I can keep on building my skills.<br /><br />--------------------------------<br />TERESA BROWN<br /> 
+General comments:<br />
+TERESA did well in this course and I am happy with TERESA's progress.<br />
+TERESA made the following comments about the course: Python and SQL was very useful<br /><br />Punctuality & Engagement:<br />
+TERESA was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, TERESA told me: Practice and use at work <br /><br />--------------------------------<br />Luke Toogood <br /> 
+General comments:<br />
+Luke did well in this course and I am happy with Luke's progress.<br />
+Luke made the following comments about the course: I found the SQL content most helpful as that is what I would be doing in my day to day work <br /><br />Punctuality & Engagement:<br />
+Luke was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, Luke told me: More interactive games and simple problem solving. <br /><br />--------------------------------<br />will taylor<br /> 
+General comments:<br />
+will did well in this course and I am happy with will's progress.<br />
+will made the following comments about the course: mainly the SQL topics as that is what i mainly use at work, however the python was interesting to<br /><br />Punctuality & Engagement:<br />
+will was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, will told me: i am going to make sure i spend a good amount of time practicing SQL making sure i gain a better understanding of it <br /><br />--------------------------------<br />Jasmine York <br /> 
+General comments:<br />
+Jasmine did well in this course and I am happy with Jasmine's progress.<br />
+Jasmine made the following comments about the course: Everything was useful, but due to the small amount of knowledge I had, going over the basics at the start found most effective and useful for me<br /><br />Punctuality & Engagement:<br />
+Jasmine was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, Jasmine told me: Going over what we have gone through in this course and practicing it will be most useful. Thank you!<br /><br />--------------------------------<br />Benjamin James Kidson<br /> 
+General comments:<br />
+Benjamin did well in this course and I am happy with Benjamin's progress.<br />
+Benjamin made the following comments about the course: Seeing lots of blocks of code, less useful was the little interactions we had<br /><br />Punctuality & Engagement:<br />
+Benjamin was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Python programming and SQL at work.<br /> When I asked what to do after the course, Benjamin told me: look further into what you can do with python<br /><br />--------------------------------<br />

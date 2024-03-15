@@ -1,6 +1,6 @@
 function processComment(name, comment1, comment2) {
-  const duration = "3";
-  const courseTitle = "Python programming and SQL";
+  const duration = "9";
+  const courseTitle = "programming and OO design";
 
   let firstname = name.split(" ")[0];
   let com1 = "";

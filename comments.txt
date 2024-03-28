@@ -1,0 +1,43 @@
+Oliver Patrick<br /> 
+General comments:<br />
+Oliver did well in this course and I am happy with Oliver's progress.<br />
+Oliver made the following comments about the course: Learning about classes, constructors and how to structure a project.<br /><br />Punctuality & Engagement:<br />
+Oliver was always punctual during the 9 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing programming and OO design at work.<br /> When I asked what to do after the course, Oliver told me: More time with the more complex tasks (2nd week) and less time with basics.<br /><br />--------------------------------<br />Zaki Tayyab<br /> 
+General comments:<br />
+Zaki did well in this course and I am happy with Zaki's progress.<br />
+Zaki made the following comments about the course: Found topics on OOP for java useful. Especially work about interfaces and abstract. Never seen these concepts before. Nothing was particularly less useful.<br /><br />Punctuality & Engagement:<br />
+Zaki was always punctual during the 9 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing programming and OO design at work.<br /> When I asked what to do after the course, Zaki told me: Probably work on some projects relating to OOP both outside and inside my work. <br /><br />--------------------------------<br />Sumayah Hassani<br /> 
+General comments:<br />
+Sumayah did well in this course and I am happy with Sumayah's progress.<br />
+Sumayah made the following comments about the course: The topics I found quite useful were the OOP concepts such as polymorphism and abstraction - the labs were very helpful in learning what had been taught in the lectures as well. A topic that was less useful may have been the SQL part - it would have been better to go a bit more in-depth.<br /><br />Punctuality & Engagement:<br />
+Sumayah was always punctual during the 9 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing programming and OO design at work.<br /> When I asked what to do after the course, Sumayah told me: Do online courses on Cloud Academy in Java and SQl to go more in-depth, as well as work on personal projects in my own time.<br /><br />--------------------------------<br />Aiden Jaunzemis<br /> 
+General comments:<br />
+Aiden did well in this course and I am happy with Aiden's progress.<br />
+Aiden made the following comments about the course: I found lambda expressions and Generic Interfaces particularly useful because I see these come up in my daily work all the time. I rarely use python within my workplace so that was less useful.<br /><br />Punctuality & Engagement:<br />
+Aiden was always punctual during the 9 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing programming and OO design at work.<br /> When I asked what to do after the course, Aiden told me: I will make sure to revisit the materials provided (try to complete the labs with less help). I will also use the codeacademy login provided by QA to further improve my skills.<br /><br />--------------------------------<br />Yannis Lawrence<br /> 
+General comments:<br />
+Yannis did well in this course and I am happy with Yannis's progress.<br />
+Yannis made the following comments about the course: I found abstract classes and interfaces the most useful since I had no prior experience in those topics. Some of the python topics at the begin were less useful since I have a lot of prior python experience.<br /><br />Punctuality & Engagement:<br />
+Yannis was always punctual during the 9 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing programming and OO design at work.<br /> When I asked what to do after the course, Yannis told me: Continue to work on developing my C# skills and begin to implement object oriented C# code in my job.<br /><br />--------------------------------<br />Jane McEvoy<br /> 
+General comments:<br />
+Jane did well in this course and I am happy with Jane's progress.<br />
+Jane made the following comments about the course: All topics on C# and Java as I had very little knowledge and experience of these languages. Python I found least useful because I already knew Python.<br /><br />Punctuality & Engagement:<br />
+Jane was always punctual during the 9 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing programming and OO design at work.<br /> When I asked what to do after the course, Jane told me: Redo all the labs at least once, to get used to writing in C#/Java. Keep practising regularly so that I don't lose the new skills.<br /><br />--------------------------------<br />Karolina Mikalauskaite<br /> 
+General comments:<br />
+Karolina did well in this course and I am happy with Karolina's progress.<br />
+Karolina made the following comments about the course: Topics during first 2/3 of the course were very useful. The remainder were less useful. The only reason behind it is that it was a lot to take in, I felt that loosing that 10th day of this course did make a difference.<br /><br />Punctuality & Engagement:<br />
+Karolina was always punctual during the 9 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing programming and OO design at work.<br /> When I asked what to do after the course, Karolina told me: I will need to do more Cloud Academy courses as well as look at other course providers (E.g. Udemy). This will help me to make sure that new skills I developed over also two weeks won't disappear quickly (it takes time for new knowledge to stick).<br /><br />--------------------------------<br />

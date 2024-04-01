@@ -6,12 +6,12 @@ const audioFile = 'https://cdn.glitch.global/7ea2c2b4-d4b6-41d3-afca-c4c259b797b
 const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashboard?siteurl=qa-learning";
 // const afaPath = "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjY4M2NiZTktYzJjMS00MTVkLTg1ZTktOGNkOWQzOTA3MWFl%40thread.v2/0?context=%7b%22Tid%22%3a%229c220797-c337-49f8-b086-a9a24979f728%22%2c%22Oid%22%3a%2246d9b67a-17db-40c3-ac50-6ec37a29497b%22%7d";
 var courseData = `
-Introduction to Software Development - Part 1
-ADXD2SD4M1A
-4819788-28
-qa.webex023@qa.com
+Design and DevOps
+ADXD2SD4M4 
+4824372-4
+qa.webex016@qa.com
 https://onedrive.live.com/?authkey=%21AIJDpzwlmAgMP%2DQ&id=82887C4F49A97ED0%21143089&cid=82887C4F49A97ED0
-GBFA7VTAAM8X
+N/A
 `;
 
 var trainer = "Mike Baradaran - mike.baradaran@qa.com";

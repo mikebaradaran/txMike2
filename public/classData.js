@@ -10,16 +10,16 @@ Design and DevOps
 ADXD2SD4M4 
 4824372-4
 qa.webex016@qa.com
-https://onedrive.live.com/?authkey=%21AIJDpzwlmAgMP%2DQ&id=82887C4F49A97ED0%21143089&cid=82887C4F49A97ED0
+https://onedrive.live.com/?authkey=%21AHGCZyEieufci5E&id=82887C4F49A97ED0%21140932&cid=82887C4F49A97ED0
 N/A
 `;
 
 var trainer = "Mike Baradaran - mike.baradaran@qa.com";
 
 var passwords = `
-ukmo.804@qa.com
-QAVirtualAccess1!
-platinum2774
+...
+...
+...
 `;
 
 var pcs = `
@@ -48,13 +48,17 @@ https://www.gotomypc.com/sc/BDFF72676D8F83204F18318E41E30AD3
   
 var students = `
 Mike, Trainer
-Mikalauskaite, Karolina	
-Jaunzemis, Aiden	
-Hernandez, Nelson	
-Hassani, Sumayah	
-Tayyab, Zaki	
-McEvoy, Jane	
-Patrick, Oliver
-Lawrence, Yannis
+Ashworth, Aaron	
+Bates, Olivia	
+Fury, Michael	
+Wilkes, Oliver	
+Black, Daniel	
+Evans, Sam	
+Inkpen, Georgina	
+Baston, Samuel	
+Hussain, Aneela	
+Chantler, Finn	
+reiss, layla
+Spencer, Jordan
 `;
 

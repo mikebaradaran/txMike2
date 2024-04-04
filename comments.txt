@@ -1,0 +1,51 @@
+Georgina Inkpen<br /> 
+General comments:<br />
+Georgina did well in this course and I am happy with Georgina's progress.<br />
+Georgina made the following comments about the course: The labs on AWS and Docker were great. Really useful and informative, I'm feeling a whole lot better about both topics. <br /><br />Punctuality & Engagement:<br />
+Georgina was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing DevOps techniques at work.<br /> When I asked what to do after the course, Georgina told me: More practice on AWS. Finding some of the options with an ever changing AWS landscape has been 'fun' but getting there.<br /><br />--------------------------------<br />Aneela Hussain<br /> 
+General comments:<br />
+Aneela did well in this course and I am happy with Aneela's progress.<br />
+Aneela made the following comments about the course: I really likes the AWS Lab - it gave me valuable hands on experience. I also really enjoyed the docker demo <br /><br />Punctuality & Engagement:<br />
+Aneela was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing DevOps techniques at work.<br /> When I asked what to do after the course, Aneela told me: I think if I continue practising and take on the feedback from Mike to look into azure and practise on cloud academy.<br /><br />--------------------------------<br />sam evans<br /> 
+General comments:<br />
+sam did well in this course and I am happy with sam's progress.<br />
+sam made the following comments about the course: demos of the processes are always useful and what I found the most effective way to learn<br /><br />Punctuality & Engagement:<br />
+sam was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing DevOps techniques at work.<br /> When I asked what to do after the course, sam told me: some more online courses that I would find relevant to use in my working environment<br /><br />--------------------------------<br />Michael<br /> 
+General comments:<br />
+Michael did well in this course and I am happy with Michael's progress.<br />
+Michael made the following comments about the course: It was good getting hands on with AWS and I think this will help me with my an upcoming report I have to write<br /><br />Punctuality & Engagement:<br />
+Michael was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing DevOps techniques at work.<br /> When I asked what to do after the course, Michael told me: I need to practice more with pipelines and transfer some of my knowledge over to Azure DevOps<br /><br />--------------------------------<br />Dan Black<br /> 
+General comments:<br />
+Dan did well in this course and I am happy with Dan's progress.<br />
+Dan made the following comments about the course: all was very useful<br /><br />Punctuality & Engagement:<br />
+Dan was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing DevOps techniques at work.<br /> When I asked what to do after the course, Dan told me: Try and use the tools learned in my job to see if they improve my day to day job<br /><br />--------------------------------<br />Olivia Bates<br /> 
+General comments:<br />
+Olivia did well in this course and I am happy with Olivia's progress.<br />
+Olivia made the following comments about the course: The course wasn't too bad but it felt rather unstructured and for me personally I didn't feel overly challenged though I had quite a lot of knowledge around DevOps coming into this course; for a majority of the second day I felt was spent debugging the lab we were given to try and get it work. The instructions in the document weren't very clear which meant there was a lot of backtracking to redo steps so I think it should be reviewed ahead of the course to prevent this from occurring, I also think it would be good to provide code snippets in .txt documents to ensure formatting isn't lost as this was an issue when copying code from the word document into visual studio code.<br />
+The docker demo was good though I prefer to have slides and content to go along with what is being demonstrated to elaborate on what each step is actually aiming to achieve but that may just be personal preference as obviously everyone works different! Overall not a bad course and I'm sure it's beneficial for people with little to no DevOps experience.<br /><br />Punctuality & Engagement:<br />
+Olivia was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing DevOps techniques at work.<br /> When I asked what to do after the course, Olivia told me: I'm looking forwards to working more in Azure and learning more about utilising this platform for scalability and deployment as it is more relevant to my work but I think more experience working with Docker will prove beneficial in the future as well.<br /><br />--------------------------------<br />Samuel Baston<br /> 
+General comments:<br />
+Samuel did well in this course and I am happy with Samuel's progress.<br />
+Samuel made the following comments about the course: I believe the sections surrounding pipelines, CI/CD, etc were the most useful as it is an important part of the software lifecycle I had only theoretical knowledge of previously. Similarly, I enjoyed the docker demo, which was concise and well-explained. <br />I believe the sections of team structure/frameworks such as Agile, Scrum, Kanban, etc were the least useful to me as I've covered those areas in greater detail for other material as well as the workplace. 
+<br /><br />Punctuality & Engagement:<br />
+Samuel was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing DevOps techniques at work.<br /> When I asked what to do after the course, Samuel told me: To further improve my skills, I would like to become more familiar and practised with CI/CD processes, particularly in the Azure platform as this is what I generally use over AWS. <br />Likewise, doing test scenarios with docker would be a valuable addition. <br /><br />--------------------------------<br />Jordan Spencer<br /> 
+General comments:<br />
+Jordan did well in this course and I am happy with Jordan's progress.<br />
+Jordan made the following comments about the course: Learning how to work with AWS as previously i found this very difficult. <br /><br />Punctuality & Engagement:<br />
+Jordan was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing DevOps techniques at work.<br /> When I asked what to do after the course, Jordan told me: I will take advantage of my aws guest account to experiment. <br /><br />--------------------------------<br />

@@ -48,4 +48,10 @@ Jordan did well in this course and I am happy with Jordan's progress.<br />
 Jordan made the following comments about the course: Learning how to work with AWS as previously i found this very difficult. <br /><br />Punctuality & Engagement:<br />
 Jordan was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing DevOps techniques at work.<br /> When I asked what to do after the course, Jordan told me: I will take advantage of my aws guest account to experiment. <br /><br />--------------------------------<br />
+Practice implementing DevOps techniques at work.<br /> When I asked what to do after the course, Jordan told me: I will take advantage of my aws guest account to experiment. <br /><br />--------------------------------<br />Finn Chantler<br /> 
+General comments:<br />
+Finn did well in this course and I am happy with Finn's progress.<br />
+Finn made the following comments about the course: I didn't have a great idea of devops prior to the course so for me all of the topics were useful.<br /><br />Punctuality & Engagement:<br />
+Finn was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing DevOps techniques at work.<br /> When I asked what to do after the course, Finn told me: Continue learning and practicing the concepts covered in the course<br /><br /><br />--------------------------------<br />

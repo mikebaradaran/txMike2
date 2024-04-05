@@ -6,20 +6,20 @@ const audioFile = 'https://cdn.glitch.global/7ea2c2b4-d4b6-41d3-afca-c4c259b797b
 const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashboard?siteurl=qa-learning";
 // const afaPath = "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjY4M2NiZTktYzJjMS00MTVkLTg1ZTktOGNkOWQzOTA3MWFl%40thread.v2/0?context=%7b%22Tid%22%3a%229c220797-c337-49f8-b086-a9a24979f728%22%2c%22Oid%22%3a%2246d9b67a-17db-40c3-ac50-6ec37a29497b%22%7d";
 var courseData = `
-Design and DevOps
-ADXD2SD4M4 
-4824372-4
-qa.webex016@qa.com
-https://onedrive.live.com/?authkey=%21AHGCZyEieufci5E&id=82887C4F49A97ED0%21140932&cid=82887C4F49A97ED0
-N/A
+Microservices and APIs
+ADXD2SD4M6 
+4774551-x
+qa.webex020@qa.com
+https://onedrive.live.com/?authkey=%21AAK2voS%2DJaM026o&id=82887C4F49A97ED0%21140142&cid=82887C4F49A97ED0
+GBTLJPI4I7BK
 `;
 
 var trainer = "Mike Baradaran - mike.baradaran@qa.com";
 
 var passwords = `
-...
-...
-...
+virtualroom14@qa.com
+QAVirtualAccess1!
+password933
 `;
 
 var pcs = `
@@ -49,16 +49,11 @@ https://www.gotomypc.com/sc/BDFF72676D8F83204F18318E41E30AD3
 var students = `
 Mike, Trainer
 Ashworth, Aaron	
+Gayle, Kyantae	
 Bates, Olivia	
-Fury, Michael	
-Wilkes, Oliver	
-Black, Daniel	
-Evans, Sam	
-Inkpen, Georgina	
-Baston, Samuel	
 Hussain, Aneela	
 Chantler, Finn	
-reiss, layla
-Spencer, Jordan
+reiss, layla	
+Sneath, Samuel	
 `;
 

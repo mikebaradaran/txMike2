@@ -49,7 +49,7 @@ https://www.gotomypc.com/sc/BDFF72676D8F83204F18318E41E30AD3
 var students = `
 Mike, Trainer
 Ashworth, Aaron	
-Gayle, Kyantae	
+Gayle, Ky	
 Bates, Olivia	
 Hussain, Aneela	
 Chantler, Finn	

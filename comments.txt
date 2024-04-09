@@ -16,4 +16,28 @@ Olivia did well in this course and I am happy with Olivia's progress.<br />
 Olivia made the following comments about the course: Good introduction to microservices and APIS and their use/place in a functional web application. Similar to other courses, had pre-existing knowledge of this area and while AWS knowledge is beneficial we don't use this in Azure so will be looking to do additional work on learning more about Kubernetes and hosting microservices on more work-specific architecture.<br /><br />Punctuality & Engagement:<br />
 Olivia was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Microservices techniques at work.<br /> When I asked what to do after the course, Olivia told me: Per the above, will be looking more into Azure fundamentals and services. Also generally working on more microservices.<br /><br />--------------------------------<br />
+Practice implementing Microservices techniques at work.<br /> When I asked what to do after the course, Olivia told me: Per the above, will be looking more into Azure fundamentals and services. Also generally working on more microservices.<br /><br />--------------------------------<br />layla reiss<br /> 
+General comments:<br />
+layla did well in this course and I am happy with layla's progress.<br />
+layla made the following comments about the course: it was interesting learning about the software that my company uses like cognito and more in depth explanations of how containers work and understanding what goes into building a production level api<br /><br />Punctuality & Engagement:<br />
+layla was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Microservices techniques at work.<br /> When I asked what to do after the course, layla told me: read up on the extra material to see more about the topics I struggled on<br /><br />--------------------------------<br />Finn Chantler<br /> 
+General comments:<br />
+Finn did well in this course and I am happy with Finn's progress.<br />
+Finn made the following comments about the course: Found all of the AWS topics useful as we use their services heavily at work.<br /><br />Punctuality & Engagement:<br />
+Finn was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Microservices techniques at work.<br /> When I asked what to do after the course, Finn told me: I'm considering signing on to further AWS training provided through work<br /><br />--------------------------------<br />Kyantae Gayle<br /> 
+General comments:<br />
+Kyantae did well in this course and I am happy with Kyantae's progress.<br />
+Kyantae made the following comments about the course: I found the in depth explanations of microservices to be really helpful along with the examples provided and the group task was also very helpful.<br /><br />Punctuality & Engagement:<br />
+Kyantae was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Microservices techniques at work.<br /> When I asked what to do after the course, Kyantae told me: After the course I think I should continue to practice my skills with docker as it is used within the business I work for however I believe my knowledge could be better.<br /><br />--------------------------------<br />Sam Sneath<br /> 
+General comments:<br />
+Sam did well in this course and I am happy with Sam's progress.<br />
+Sam made the following comments about the course: i enjoyed learning about the different microservices however sitting on a call all day doesnt seem like the most effective way to learn<br /><br />Punctuality & Engagement:<br />
+Sam was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Microservices techniques at work.<br /> When I asked what to do after the course, Sam told me: definetly improve my knowledge of navigating aws<br /><br />--------------------------------<br />

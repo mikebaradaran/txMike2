@@ -6,12 +6,12 @@ const audioFile = 'https://cdn.glitch.global/7ea2c2b4-d4b6-41d3-afca-c4c259b797b
 const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashboard?siteurl=qa-learning";
 // const afaPath = "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjY4M2NiZTktYzJjMS00MTVkLTg1ZTktOGNkOWQzOTA3MWFl%40thread.v2/0?context=%7b%22Tid%22%3a%229c220797-c337-49f8-b086-a9a24979f728%22%2c%22Oid%22%3a%2246d9b67a-17db-40c3-ac50-6ec37a29497b%22%7d";
 var courseData = `
-Microservices and APIs
-ADXD2SD4M6 
-4774551-x
-qa.webex020@qa.com
-https://onedrive.live.com/?authkey=%21AAK2voS%2DJaM026o&id=82887C4F49A97ED0%21140142&cid=82887C4F49A97ED0
-GBTLJPI4I7BK
+Agile Software Development
+ADXD2SD3M1 
+4823475-12
+qa.webex027@qa.com
+https://onedrive.live.com/?authkey=%21AFYQekW2mymFWWA&id=82887C4F49A97ED0%21140985&cid=82887C4F49A97ED0
+GBGI9Y9WA0JU
 `;
 
 var trainer = "Mike Baradaran - mike.baradaran@qa.com";

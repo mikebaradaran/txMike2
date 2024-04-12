@@ -10,4 +10,12 @@ William did well in this course and I am happy with William's progress.<br />
 William made the following comments about the course: I found all of the topics useful however I did find the sprint retrospective quite basic and most of the point mentioned I thought were quite self explanitory<br /><br />Punctuality & Engagement:<br />
 William was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Agile software development at work.<br /> When I asked what to do after the course, William told me: I need to look in to doing more of the research in to other Agile Methodoligies that I can use<br /><br />--------------------------------<br />
+Practice implementing Agile software development at work.<br /> When I asked what to do after the course, William told me: I need to look in to doing more of the research in to other Agile Methodoligies that I can use<br /><br />--------------------------------<br />Jake Barry<br /> 
+General comments:<br />
+Jake did well in this course and I am happy with Jake's progress.<br />
+Jake made the following comments about the course: I found the software development lifecycle useful and thinking about all the parts that make up the development process.<br />Some of the labs/tasks weren't as useful as they could have been.
+
+<br /><br />Punctuality & Engagement:<br />
+Jake was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Agile software development at work.<br /> When I asked what to do after the course, Jake told me: I need to think about how to break down bigger tasks into smaller ones inspired by agile methods<br /><br />--------------------------------<br />

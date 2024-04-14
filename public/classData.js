@@ -17,9 +17,9 @@ N/A
 var trainer = "Mike Baradaran - mike.baradaran@qa.com";
 
 var passwords = `
-N/A
-N/A
-N/A
+7C5F222866924D32
+7C5F222866924D32
+7C5F222866924D32
 `;
 
 var pcs = `

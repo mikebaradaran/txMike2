@@ -64,8 +64,8 @@ Sinclair, Michael
 McEvoy, Jane	
 Rafiee, Kamyar	
 Suaznabar, Mark	
-Matakitoga, Luke	
-Teece, Luke	
+Matakitoga, Luke M	
+Teece, Luke T	
 Sharif, Yahya	
 Breslin, Colin	
 Olubi, Emmanuel	

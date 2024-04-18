@@ -19,3 +19,4 @@ Jake made the following comments about the course: I found the software developm
 Jake was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
 Practice implementing Agile software development at work.<br /> When I asked what to do after the course, Jake told me: I need to think about how to break down bigger tasks into smaller ones inspired by agile methods<br /><br />--------------------------------<br />
+

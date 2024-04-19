@@ -71,4 +71,22 @@ Samantha did well in this course and I am happy with Samantha's progress.<br />
 Samantha made the following comments about the course: I found all of the topics very interesting and informative<br /><br />Punctuality & Engagement:<br />
 Samantha was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Samantha told me: I will begin to use more Javascript, HTML and jQuery within my code<br /><br />--------------------------------<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Samantha told me: I will begin to use more Javascript, HTML and jQuery within my code<br /><br />--------------------------------<br />Kamyar Rafiee<br /> 
+General comments:<br />
+Kamyar did well in this course and I am happy with Kamyar's progress.<br />
+Kamyar made the following comments about the course: All of the Ajax and Angular JS stuff was great - I've never been exposed to it before<br /><br />Punctuality & Engagement:<br />
+Kamyar was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Kamyar told me: Build a website<br /><br />--------------------------------<br />Jane McEvoy<br /> 
+General comments:<br />
+Jane did well in this course and I am happy with Jane's progress.<br />
+Jane made the following comments about the course: All of them were useful as I didn't have a very good foundation level of web development<br /><br />Punctuality & Engagement:<br />
+Jane was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Jane told me: Revisit the slides and labs to get better acquainted with creating webpages using jQuery and AngularJS. Practise and do additional courses if needed.<br /><br />--------------------------------<br />Viktoria Fulier<br /> 
+General comments:<br />
+Viktoria did well in this course and I am happy with Viktoria's progress.<br />
+Viktoria made the following comments about the course: It was good to review HTML/CSS and interactions with it. I didn't fount jQuery that useful. However, Angular was the most interesting part of the course.<br /><br />Punctuality & Engagement:<br />
+Viktoria was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Viktoria told me: In my opinion, it would be more interesting/useful if labs were linked to each other, so at the end of each day there would be a mini-project that could be included in the portfolio.<br /><br />--------------------------------<br />

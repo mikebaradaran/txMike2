@@ -95,4 +95,16 @@ Yahya did well in this course and I am happy with Yahya's progress.<br />
 Yahya made the following comments about the course: I found the sessions to be very useful and learnt new things. I'm still finding things a bit tricky but surely will become easier with time such as jQuery. The glitch website also made it very proactive  to keeps engaged in the sessions.<br /><br />Punctuality & Engagement:<br />
 Yahya was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> <br />--------------------------------<br />Ryan  SH<br /> 
+General comments:<br />
+Ryan did well in this course and I am happy with Ryan's progress.<br />
+<br />Punctuality & Engagement:<br />
+Ryan was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> <br />--------------------------------<br />Louis  Claremont<br /> 
+General comments:<br />
+Louis did well in this course and I am happy with Louis's progress.<br />
+<br />Punctuality & Engagement:<br />
+Louis was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
 Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> <br />--------------------------------<br />

@@ -40,4 +40,35 @@ Karolina did well in this course and I am happy with Karolina's progress.<br />
 Karolina made the following comments about the course: Before this course, I had extremely limited knowledge of how websites and web based applications are built. It was very useful to develop these foundations during this week.<br /><br />Punctuality & Engagement:<br />
 Karolina was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Karolina told me: Due to my limited previous knowledge, some of parts taught this week were quite tricky. However, I expected this. As with Part 1 of Software Engineering, I will need to do more practice during my free time to continue building on the foundations developed this week.<br /><br />--------------------------------<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Karolina told me: Due to my limited previous knowledge, some of parts taught this week were quite tricky. However, I expected this. As with Part 1 of Software Engineering, I will need to do more practice during my free time to continue building on the foundations developed this week.<br /><br />--------------------------------<br />Mark<br /> 
+General comments:<br />
+Mark did well in this course and I am happy with Mark's progress.<br />
+Mark made the following comments about the course: Enjoyed all of it, especially the latter more complicated topics<br /><br />Punctuality & Engagement:<br />
+Mark was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Mark told me: Practice practice practice, will be doing lots of online courses and practicing at work<br /><br />--------------------------------<br />Yannis Lawrence<br /> 
+General comments:<br />
+Yannis did well in this course and I am happy with Yannis's progress.<br />
+Yannis made the following comments about the course: I found jQuery and AngularJS the most useful as I have no prior experience with them. The HTML and CSS was the least useful as I had done some work with them in the past but it was still a useful refresher<br /><br />Punctuality & Engagement:<br />
+Yannis was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Yannis told me: Continue experimenting and researching Jquery and AngularJS<br /><br />--------------------------------<br />Oliver Patrick<br /> 
+General comments:<br />
+Oliver did well in this course and I am happy with Oliver's progress.<br />
+Oliver made the following comments about the course: I found JQuery useful as i know it is used at my place of work.<br /><br />Punctuality & Engagement:<br />
+Oliver was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Oliver told me: Research more on angular, I have used react but would like to explore the differences more.<br /><br />--------------------------------<br />Ben<br /> 
+General comments:<br />
+Ben did well in this course and I am happy with Ben's progress.<br />
+Ben made the following comments about the course: Most Useful = Using Javascript to insert data into HTML Document<br />
+Less Useful = AngularJS from 1 point of view. Can see it's strengths and benefits, but knowing it's depreciated is demotivating. Think could use more information on it's successor.<br /><br />Punctuality & Engagement:<br />
+Ben was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Ben told me: Look into Angular 2 & other Libaries<br /><br />--------------------------------<br />Samantha Rawlings<br /> 
+General comments:<br />
+Samantha did well in this course and I am happy with Samantha's progress.<br />
+Samantha made the following comments about the course: I found all of the topics very interesting and informative<br /><br />Punctuality & Engagement:<br />
+Samantha was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Samantha told me: I will begin to use more Javascript, HTML and jQuery within my code<br /><br />--------------------------------<br />

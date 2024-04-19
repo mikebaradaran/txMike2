@@ -1,0 +1,43 @@
+Emmanuel Olubi<br /> 
+General comments:<br />
+Emmanuel did well in this course and I am happy with Emmanuel's progress.<br />
+Emmanuel made the following comments about the course: I really enjoyed learning about javascript. Felt confident with html and css so was not as useful to me<br /><br />Punctuality & Engagement:<br />
+Emmanuel was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Emmanuel told me: Make some practice projects with the coding languages. May be learn and do some more courses.<br /><br />--------------------------------<br />Sumayah Hassani<br /> 
+General comments:<br />
+Sumayah did well in this course and I am happy with Sumayah's progress.<br />
+Sumayah made the following comments about the course: I found all topics useful, especially when learning about Jquery it was interesting to see how JavaScript code could shortened using Jquery.<br /><br />Punctuality & Engagement:<br />
+Sumayah was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Sumayah told me: After the course, I'd like to improve my understanding of Ajax and will do online courses around this. <br /><br />--------------------------------<br />Zaki Tayyab<br /> 
+General comments:<br />
+Zaki did well in this course and I am happy with Zaki's progress.<br />
+Zaki made the following comments about the course: Learning AJAX, JQuery and Angular were interesting and useful. I knew javascript beforehand so it was easy to learn.<br /><br />Punctuality & Engagement:<br />
+Zaki was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Zaki told me: Some projects that utilize AJAX and JQuery<br /><br />--------------------------------<br />Luke Matakitoga<br /> 
+General comments:<br />
+Luke did well in this course and I am happy with Luke's progress.<br />
+Luke made the following comments about the course: I found the JQuery section particularly useful as this is something I know I'll be able to use a lot more in work now. The first few labs I found less useful as I had already covered this<br /><br />Punctuality & Engagement:<br />
+Luke was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Luke told me: Mike mentioned a couple times that you shouldn't just take tutorials when learning and you should actually make some real life programs to help you learn<br /><br />--------------------------------<br />Aiden Jaunzemis<br /> 
+General comments:<br />
+Aiden did well in this course and I am happy with Aiden's progress.<br />
+Aiden made the following comments about the course: I found the angular particularly interesting. I can definitely see my self going back to my daily work and using this for more efficient web development.<br /><br />Punctuality & Engagement:<br />
+Aiden was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Aiden told me: I will look over the slides again once the course ends and attempt the more difficult labs. I will also try to come up with similar solutions using the same logic.<br /><br />--------------------------------<br />Colin Breslin<br /> 
+General comments:<br />
+Colin did well in this course and I am happy with Colin's progress.<br />
+Colin made the following comments about the course: All useful but I toiled with the JQuery sections.<br /><br />Punctuality & Engagement:<br />
+Colin was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Colin told me: I should practice more when an opportunity arises<br /><br />--------------------------------<br />Karolina Mikalauskaite<br /> 
+General comments:<br />
+Karolina did well in this course and I am happy with Karolina's progress.<br />
+Karolina made the following comments about the course: Before this course, I had extremely limited knowledge of how websites and web based applications are built. It was very useful to develop these foundations during this week.<br /><br />Punctuality & Engagement:<br />
+Karolina was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Karolina told me: Due to my limited previous knowledge, some of parts taught this week were quite tricky. However, I expected this. As with Part 1 of Software Engineering, I will need to do more practice during my free time to continue building on the foundations developed this week.<br /><br />--------------------------------<br />

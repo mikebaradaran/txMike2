@@ -6,9 +6,15 @@ function processComment(name, comment1, comment2) {
   let com1 = "";
   let com2 = "";
   if (comment1.trim() != "")
-    com1 = `${firstname} made the following comments about the course: ${comment1.replace("\n","<br />")}<br />`;
+    com1 = `${firstname} made the following comments about the course: ${comment1.replace(
+      "\n",
+      "<br />"
+    )}<br />`;
   if (comment2.trim() != "")
-    com2 = `When I asked what to do after the course, ${firstname} told me: ${comment2.replace("\n","<br />")}<br />`;
+    com2 = `When I asked what to do after the course, ${firstname} told me: ${comment2.replace(
+      "\n",
+      "<br />"
+    )}<br />`;
 
   return `${name}<br /> 
 General comments:<br />
@@ -19,14 +25,16 @@ Recommendations for further learning:<br />
 Practice implementing ${courseTitle} at work and if time permits, perform the Angular 2+ lab from Google.<br /> ${com2}<br />--------------------------------<br />`;
 }
 
-function deleteComments(fs){
-    fs.writeFile("comments.txt", "", { encoding: "utf8" }, (err) => {
-    if (err) { throw err; }
+function deleteComments(fs) {
+  fs.writeFile("comments.txt", "", { encoding: "utf8" }, (err) => {
+    if (err) {
+      throw err;
+    }
   });
 }
 
-function saveComments(req, fs){
-    let data = req.body;
+function saveComments(req, fs) {
+  let data = req.body;
   let comments = processComment(
     data.txtName,
     data.txtComment1,
@@ -37,9 +45,10 @@ function saveComments(req, fs){
       throw err;
     }
   });
-
 }
 
 module.exports = {
-  processComment, deleteComments, saveComments
+  processComment,
+  deleteComments,
+  saveComments,
 };

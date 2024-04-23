@@ -1,7 +1,9 @@
 function processComment(name, comment1, comment2) {
   const duration = "5";
   const courseTitle = "Web development";
-
+  const recommendation = `Practice implementing ${courseTitle} at work and if time permits, perform the Angular 2+ lab from Google.`
+  // ------------------------------------------------------------
+  
   let firstname = name.split(" ")[0];
   let com1 = "";
   let com2 = "";
@@ -22,7 +24,7 @@ ${firstname} did well in this course and I am happy with ${firstname}'s progress
 ${com1}<br />Punctuality & Engagement:<br />
 ${firstname} was always punctual during the ${duration} days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing ${courseTitle} at work and if time permits, perform the Angular 2+ lab from Google.<br /> ${com2}<br />--------------------------------<br />`;
+${recommendation}<br /> ${com2}<br />--------------------------------<br />`;
 }
 
 function deleteComments(fs) {

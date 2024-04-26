@@ -45,6 +45,7 @@ https://www.gotomypc.com/sc/BEA406A8FED5317199B0218F19E242A0
 `;
   
 var students = `
+Mike, Trainer
 Thomas, Eliza	
 Harker, Alexandra	
 McGurk, Adam	

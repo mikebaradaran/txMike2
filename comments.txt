@@ -1,7 +1,61 @@
-Mike Baradaran<br /> 
+Ivaylo Georgiev<br /> 
 General comments:<br />
-Mike did well in this course and I am happy with Mike's progress.<br />
-Mike made the following comments about the course: all of it<br /><br />Punctuality & Engagement:<br />
-Mike was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Ivaylo did well in this course and I am happy with Ivaylo's progress.<br />
+Ivaylo made the following comments about the course: I found it all useful, I never used Docker before so I did enjoy that.<br /><br /><br />Punctuality & Engagement:<br />
+Ivaylo was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Mike told me: practice<br /><br />--------------------------------<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Ivaylo told me: I would love to see more option about the DevOps provider as Labs, Azure DevOps is widely used and would be good to have a lab choices for AWS or Azure<br /><br />--------------------------------<br />Steven Bell<br /> 
+General comments:<br />
+Steven did well in this course and I am happy with Steven's progress.<br />
+Steven made the following comments about the course: I thought Mike was very helpful. He always added extra comments on whatever topic we were discussing to help us understand it better.<br /><br />Punctuality & Engagement:<br />
+Steven was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Steven told me: Do more investigation into dockers.<br /><br />--------------------------------<br />Alexandra Harker<br /> 
+General comments:<br />
+Alexandra did well in this course and I am happy with Alexandra's progress.<br />
+Alexandra made the following comments about the course: I found all of the topics useful as Dev Ops isn't something I personally use in work but will be implemented on my team soon. I enjoyed the labs and found them easy to follow along.<br /><br />Punctuality & Engagement:<br />
+Alexandra was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Alexandra told me: Practice further to cement my learning - read up more about the theory side to make sure I'm understanding exactly what I'm doing and not just replicating the steps in the labs for this course.<br /><br />--------------------------------<br />Joanna Cale<br /> 
+General comments:<br />
+Joanna did well in this course and I am happy with Joanna's progress.<br />
+Joanna made the following comments about the course: I found all the topics useful and learnt a lot about deployment and the tools to do this. The AWS work was the most useful as this is a system I am using at work, having the lab practice was helpful with aspects of AWS which I haven't used at work yet such as AWS Amplify.<br /><br />Punctuality & Engagement:<br />
+Joanna was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Joanna told me: Further practice with AWS so I am confident with using it more in work, also want to practice more with Docker on my PC<br /><br />--------------------------------<br />Patrick Weekes<br /> 
+General comments:<br />
+Patrick did well in this course and I am happy with Patrick's progress.<br />
+Patrick made the following comments about the course: Pipelines was good.<br /><br />Punctuality & Engagement:<br />
+Patrick was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Patrick told me: Find more practical and fun application for dockers to learn more about them.<br /><br />--------------------------------<br />Adam McGurk<br /> 
+General comments:<br />
+Adam did well in this course and I am happy with Adam's progress.<br />
+Adam made the following comments about the course: Generally I found the overview of what DevOps is and the automation of CI using AWS very useful. <br /><br />Punctuality & Engagement:<br />
+Adam was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Adam told me: I will do more research into dockers and try my own projects using dockers as I was unable to do the docker labs and therefore feel I would benefit more from getting my own hands on experience.<br /><br />--------------------------------<br />Thomas Ribbens<br /> 
+General comments:<br />
+Thomas did well in this course and I am happy with Thomas's progress.<br />
+Thomas made the following comments about the course: The first two days of DevOps was useful to expand my knowledge to use in my dad to day job.<br /><br />Punctuality & Engagement:<br />
+Thomas was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Thomas told me: Continue on with the incomplete labs related to docker.<br /><br />--------------------------------<br />Jacob Whitcombe-Ritchie<br /> 
+General comments:<br />
+Jacob did well in this course and I am happy with Jacob's progress.<br />
+Jacob made the following comments about the course: I found the first few days useful, learning CI CD and how that applies to DevOps. The docker parts were less useful as unfortunately I couldn't get docker working on my machine and they didn't work on the provided VMs. Working through it as a group isn't as useful for my learning style as I'm not really doing anything.<br /><br />Punctuality & Engagement:<br />
+Jacob was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Jacob told me: I will do some further online research on CI/CD in Azure and how I can apply that to my day to day work.<br /><br />--------------------------------<br />Jonathan Martin<br /> 
+General comments:<br />
+Jonathan did well in this course and I am happy with Jonathan's progress.<br />
+Jonathan made the following comments about the course: Doing mostly labs and practical work was useful. The Docker content was less useful as I struggled more with it.<br /><br />Punctuality & Engagement:<br />
+Jonathan was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Jonathan told me: Doing some Cloud Academy courses on Docker would be a way to continue to improve.<br /><br />--------------------------------<br />Paul Hayward<br /> 
+General comments:<br />
+Paul did well in this course and I am happy with Paul's progress.<br />
+Paul made the following comments about the course: I think the topics were ok, although the context and delivery wasn't always clear.<br /><br />Punctuality & Engagement:<br />
+Paul was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice implementing Web development at work and if time permits, perform the Angular 2+ lab from Google.<br /> When I asked what to do after the course, Paul told me: Take another course?<br /><br />--------------------------------<br />

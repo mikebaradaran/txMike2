@@ -8,7 +8,7 @@ const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashbo
 var courseData = `
 Python Programming and SQL Principles
 ADXD2SD3M3 
-4823484-10x
+4823484-10
 qa.webex047@qa.com
 https://onedrive.live.com/?authkey=%21AHGA41CqDf76Vgk&id=82887C4F49A97ED0%21143863&cid=82887C4F49A97ED0
 N/A

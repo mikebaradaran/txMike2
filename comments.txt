@@ -39,4 +39,10 @@ Jennifer did well in this course and I am happy with Jennifer's progress.<br />
 Jennifer made the following comments about the course: SQL scripts was useful to know. Although I know some of the keywords, it is useful to know the other keywords too. I feel like I wouldn't be able to do a lot of the functions because we have a SQL team at work who handle a lot of the database stuff. The least useful to know, was some python although it was still useful for anything I do in the future. <br /><br />Punctuality & Engagement:<br />
 Jennifer was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice writing Python apps and running SQL scripts on the databases at work.<br /> When I asked what to do after the course, Jennifer told me: I would like to use more python because I heard it's an easy language to learn but this would have to be more in my own time.<br /><br />--------------------------------<br />
+Practice writing Python apps and running SQL scripts on the databases at work.<br /> When I asked what to do after the course, Jennifer told me: I would like to use more python because I heard it's an easy language to learn but this would have to be more in my own time.<br /><br />--------------------------------<br />Liam Gleeson<br /> 
+General comments:<br />
+Liam did well in this course and I am happy with Liam's progress.<br />
+Liam made the following comments about the course: SQL development, it's incredibly useful for my dev work at my company as I try to push to become full stack, although we don't use python It's useful to see how it works and where we could potentially use it in the company<br /><br />Punctuality & Engagement:<br />
+Liam was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice writing Python apps and running SQL scripts on the databases at work.<br /> When I asked what to do after the course, Liam told me: Self revision, and mainly just practice, as much coding as possible<br /><br />--------------------------------<br />

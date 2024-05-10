@@ -10,4 +10,19 @@ Leo did well in this course and I am happy with Leo's progress.<br />
 Leo made the following comments about the course: I think all the topics were useful but I think the most useful was SQL <br /><br />Punctuality & Engagement:<br />
 Leo was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice writing Python apps and running SQL scripts on the databases at work.<br /> When I asked what to do after the course, Leo told me: look over the course material and extra research on the topics<br /><br />--------------------------------<br />
+Practice writing Python apps and running SQL scripts on the databases at work.<br /> When I asked what to do after the course, Leo told me: look over the course material and extra research on the topics<br /><br />--------------------------------<br />Christiano Amatruda<br /> 
+General comments:<br />
+Christiano did well in this course and I am happy with Christiano's progress.<br />
+Christiano made the following comments about the course: The basics were informative, I'm more comfortable with using Python and SQL especially. Found it difficult s someone who has never used these languages before as we did not go through the basics for SQL and was very daunting. Introduced to a big Database and not shown how to go about creating databases or even how we would connect them to entries. <br />
+Overall, a lot of theoretical basics we learnt but I would have to do a lot of research to apply those skills, to a current project.<br /><br />Punctuality & Engagement:<br />
+Christiano was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice writing Python apps and running SQL scripts on the databases at work.<br /> When I asked what to do after the course, Christiano told me: I should research in depth about SQL and the initialization of databases.<br />I should research how to connect databases to websites and apps so that I can actually use them.
+I Should research ways in which I can apply Python to my work.
+<br /><br />--------------------------------<br />Viktorija Ragozina<br /> 
+General comments:<br />
+Viktorija did well in this course and I am happy with Viktorija's progress.<br />
+Viktorija made the following comments about the course: I enjoyed learning more about tuples, sets and list comprehension. These were some basic topics that I could never quite get my head around, however after the course with Mike I feel a lot more confident in my abilities. Some of the topics were a little bit difficult to grasp in such a short period of time, such as pickling in Python. I feel that maybe a 5 day course would be more suitable for this as there are many interesting and useful subjects to learn that take time to learn. Mike did a great job, however I think with a little bit more time it could have been even better.<br /><br />Punctuality & Engagement:<br />
+Viktorija was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice writing Python apps and running SQL scripts on the databases at work.<br /> When I asked what to do after the course, Viktorija told me: There are certain types of data that we store in MongoDB databases within the company I work at, however I have not been exposed to them much. I'd like to learn how to query and connect to noSQL databases using Python to further expand my knowledge. After the course, I will speak to my mentor at work and request additional training regarding MongoDB.<br /><br />--------------------------------<br />

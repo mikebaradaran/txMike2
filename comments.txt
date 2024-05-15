@@ -1,0 +1,19 @@
+Georgina Inkpen<br /> 
+General comments:<br />
+Georgina did well in this course and I am happy with Georgina's progress.<br />
+Georgina made the following comments about the course: The examples made a lot of things click, such as the relationship between bdd/cucumber language and the tests etc <br /><br />Punctuality & Engagement:<br />
+Georgina was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and writing code, using the methods described during the Software Craft course at work.<br /> When I asked what to do after the course, Georgina told me: As always lots of practice especially with all aspects of testing, plus bdd and tdd<br /><br />--------------------------------<br />Tom Earle<br /> 
+General comments:<br />
+Tom did well in this course and I am happy with Tom's progress.<br />
+Tom made the following comments about the course: I really enjoyed learning about test driven development, it opened my eyes to a new method of writing code.<br /><br />Punctuality & Engagement:<br />
+Tom was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and writing code, using the methods described during the Software Craft course at work.<br /> When I asked what to do after the course, Tom told me: I will delve more into test driven development and try to implement it into my coding projects going forward.<br /><br />--------------------------------<br />Samuel Baston<br /> 
+General comments:<br />
+Samuel did well in this course and I am happy with Samuel's progress.<br />
+Samuel made the following comments about the course: I think the content covering the testing topics would be most useful as I move to working on more modern technologies, particularly the use of mocks and specflow.<br />From a personal perspective, I found TDD to be less useful than other topics.<br /><br />Punctuality & Engagement:<br />
+Samuel was always punctual during the 3 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and writing code, using the methods described during the Software Craft course at work.<br /> When I asked what to do after the course, Samuel told me: As I start to use more modern techniques in my work, more rigorous testing can only be a benefit to me. I want to incorporate more automated testing plans for pipelines.<br /><br />--------------------------------<br />

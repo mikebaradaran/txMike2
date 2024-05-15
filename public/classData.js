@@ -47,10 +47,10 @@ Baston, Samuel
 Chessa da Silva, Denize	
 Saffery, Caleb	
 Earle, Thomas	
-test1, test1
-test2, test2
-test3, test3
-test4, test4
-test5, test5
+test1 Jordan, test1 Jordan
+test2 George, test2 George
+test3 Samuel, test3 Samuel
+test4 Tom, test4 Tom
+test5, test5 Paul
 `;
 

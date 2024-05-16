@@ -1,7 +1,7 @@
 function processComment(name, comment1, comment2) {
-  const duration = "3";
-  const courseTitle = "the Software Craft course";
-  const recommendation = `Practice designing and writing code, using the methods described during ${courseTitle} at work.`
+  const duration = "2";
+  const courseTitle = "Microservices and APIs";
+  const recommendation = `Practice designing and implementing ${courseTitle} at work.`
   // ------------------------------------------------------------
   
   let firstname = name.split(" ")[0];

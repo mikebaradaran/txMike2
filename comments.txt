@@ -28,4 +28,10 @@ James did well in this course and I am happy with James's progress.<br />
 James made the following comments about the course: One topic I found useful was the stuff inside of AWS. One thing i didn't like was how AWS is as it seemed to have some issues when it came to the labs.<br /><br />Punctuality & Engagement:<br />
 James was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, James told me: I would like to learn more about microservices, what they are how they work and why they are used in more detail. As well as what company's adapt microservices and why they do that <br /><br />--------------------------------<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, James told me: I would like to learn more about microservices, what they are how they work and why they are used in more detail. As well as what company's adapt microservices and why they do that <br /><br />--------------------------------<br />Rabea Akkas<br /> 
+General comments:<br />
+Rabea did well in this course and I am happy with Rabea's progress.<br />
+Rabea made the following comments about the course: The communication between microservices was very useful and there wasn't anything that wasn't usefyl.<br /><br />Punctuality & Engagement:<br />
+Rabea was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Rabea told me: Make a project of my own<br /><br />--------------------------------<br />

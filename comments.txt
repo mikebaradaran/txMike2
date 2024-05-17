@@ -1,0 +1,13 @@
+Dan Black<br /> 
+General comments:<br />
+Dan did well in this course and I am happy with Dan's progress.<br />
+Dan made the following comments about the course: I found all topics quite useful because I didn't really know much about the topic to begin with<br /><br />Punctuality & Engagement:<br />
+Dan was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Dan told me: spend some time looking into microservices in my workplace<br /><br />--------------------------------<br />Michael F<br /> 
+General comments:<br />
+Michael did well in this course and I am happy with Michael's progress.<br />
+Michael made the following comments about the course: Doing the RESTful API lab. Quite long and involved, but good explanations at each step<br /><br />Punctuality & Engagement:<br />
+Michael was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Michael told me: See if I can translate what I've done in AWS to Azure DevOps as we use that at work<br /><br />--------------------------------<br />

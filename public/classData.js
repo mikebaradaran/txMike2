@@ -46,20 +46,20 @@ https://www.gotomypc.com/sc/A5E473293097BA556CC6118F95F27380
 
 var students = `
 Trainer, Trainer
-Ballagan, Aaron (REQS)	
-Johnson, Rohan (REQS)
-Kaminska, Malgorzata	
-Wrzosek, Anna	
-Czechowska, Aleksandra	
-Bindika, Kwela	
-Baines, Annie	
-Angelitud, Robert	
-Warden, Paige	
-Miah, Niyaz		
-Maiden, Matthew	
-Adu-Baah, Joseph	
-Khan, Salman	
-Raffay, Abdul	
+Ballagan, Aaron	
+Johnson, Rohan
+Kaminska, Malgorzata
+Wrzosek, Anna
+Czechowska, Aleksandra
+Bindika, Kwela
+Baines, Annie
+Angelitud, Robert
+Warden, Paige
+Miah, Niyaz
+Maiden, Matthew
+Adu-Baah, Joseph
+Khan, Salman
+Raffay, Abdul
 Test, test1
 Test, test2
 `;

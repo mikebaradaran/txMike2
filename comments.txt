@@ -76,4 +76,10 @@ Abdul did well in this course and I am happy with Abdul's progress.<br />
 Abdul made the following comments about the course: I found all of them very useful and it has expanded my knowledge.<br /><br />Punctuality & Engagement:<br />
 Abdul was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Abdul told me: Carry on practicising and use mikes advice of using AWS to practise<br /><br />--------------------------------<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Abdul told me: Carry on practicising and use mikes advice of using AWS to practise<br /><br />--------------------------------<br />Joseph Adu-Baah<br /> 
+General comments:<br />
+Joseph did well in this course and I am happy with Joseph's progress.<br />
+Joseph made the following comments about the course: I found the whole Dockers topic very interesting as this was my introduction to the topic<br /><br />Punctuality & Engagement:<br />
+Joseph was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Joseph told me: I think to improve my skills on this topic I definitely should experiment more with creating applications and using dockers in my spare time to get more comfortable with the topic<br /><br />--------------------------------<br />

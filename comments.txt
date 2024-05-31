@@ -34,4 +34,16 @@ Robert did well in this course and I am happy with Robert's progress.<br />
 Robert made the following comments about the course: Docker in general was really useful; beanstalk lab was very similar to what was done pre-course already.<br /><br />Punctuality & Engagement:<br />
 Robert was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Robert told me: Use docker in the workplace and/or take an AWS Cert course.<br /><br />--------------------------------<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Robert told me: Use docker in the workplace and/or take an AWS Cert course.<br /><br />--------------------------------<br />Aleksandra Czechowska<br /> 
+General comments:<br />
+Aleksandra did well in this course and I am happy with Aleksandra's progress.<br />
+Aleksandra made the following comments about the course: Most useful topic for me was Docker<br /><br />Punctuality & Engagement:<br />
+Aleksandra was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Aleksandra told me: I will do more labs! <br /><br />--------------------------------<br />Kwela Bindika<br /> 
+General comments:<br />
+Kwela did well in this course and I am happy with Kwela's progress.<br />
+Kwela made the following comments about the course: I think everything was useful but I found the subjects quite complex, I need more time time to process it all.<br /><br />Punctuality & Engagement:<br />
+Kwela was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Kwela told me: I will ask my manager for a task where I can develop my understanding of Docker.<br /><br />--------------------------------<br />

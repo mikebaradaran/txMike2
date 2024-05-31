@@ -1,0 +1,7 @@
+Annie Baines<br /> 
+General comments:<br />
+Annie did well in this course and I am happy with Annie's progress.<br />
+Annie made the following comments about the course: I have found it really useful to learn about Docker and how it works. It was interesting to see how Docker containers can encapsulate everything needed to run applications. I liked that we were given enough time to go through everything at our own pace.<br /><br />Punctuality & Engagement:<br />
+Annie was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Annie told me: I would like to experiment further with the labs and read up on Kubernetes.<br /><br />--------------------------------<br />

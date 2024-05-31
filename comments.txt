@@ -52,4 +52,22 @@ Matthew did well in this course and I am happy with Matthew's progress.<br />
 Matthew made the following comments about the course: I found the learning we did on docker useful and didnt get much new from devops<br /><br />Punctuality & Engagement:<br />
 Matthew was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Matthew told me: Continue working on personal projects that include docker<br /><br />--------------------------------<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Matthew told me: Continue working on personal projects that include docker<br /><br />--------------------------------<br />Paige Warden<br /> 
+General comments:<br />
+Paige did well in this course and I am happy with Paige's progress.<br />
+Paige made the following comments about the course: Docker was useful as I will be using this in my workplace, was is less useful (we didn't touch on this as much)<br /><br />Punctuality & Engagement:<br />
+Paige was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Paige told me: Maybe go into further details on what exactly docker is and why we use it <br /><br />--------------------------------<br />Niyaz Miah<br /> 
+General comments:<br />
+Niyaz did well in this course and I am happy with Niyaz's progress.<br />
+Niyaz made the following comments about the course: I FOUND THE dOCKER AND aws USEFUL AS THEY FOLLOW COMPANY Practices. However, Jenkins and extra theory slides as well as lengthy demos were not very useful to me as they were not aligned with the company and I lose focus quite easily<br /><br />Punctuality & Engagement:<br />
+Niyaz was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Niyaz told me: Keep doing labs and completing software tickets which consists of dockers<br /><br />--------------------------------<br />Niyaz Miah<br /> 
+General comments:<br />
+Niyaz did well in this course and I am happy with Niyaz's progress.<br />
+Niyaz made the following comments about the course: I FOUND THE dOCKER AND aws USEFUL AS THEY FOLLOW COMPANY Practices. However, Jenkins and extra theory slides as well as lengthy demos were not very useful to me as they were not aligned with the company and I lose focus quite easily<br /><br />Punctuality & Engagement:<br />
+Niyaz was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Niyaz told me: Keep doing labs and completing software tickets which consists of dockers<br /><br />--------------------------------<br />

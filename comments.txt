@@ -22,4 +22,16 @@ Rohan did well in this course and I am happy with Rohan's progress.<br />
 Rohan made the following comments about the course: I found docker useful but I still don't like it, it makes me angry in ways no other software can haha. I did manage to get it working with the node:18-alpine base image and I learned a lot about dockerfiles while figuring out why it didn't work.<br /><br />Punctuality & Engagement:<br />
 Rohan was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Rohan told me: I should try to dockerize projects in other languages/frameworks such as an ASP project etc<br /><br />--------------------------------<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Rohan told me: I should try to dockerize projects in other languages/frameworks such as an ASP project etc<br /><br />--------------------------------<br />Anna Wrzosek<br /> 
+General comments:<br />
+Anna did well in this course and I am happy with Anna's progress.<br />
+Anna made the following comments about the course: As I am going to be working with Docker at some point in the future, learning the basics was very useful. I enjoyed doing the exercises (and helping with making the docs better), but I would prefer if they were more connected, i.e. making a gradual change to the same example to show different ways of working with Docker as circumstances change. At least for the foreseeable future, I will not be working with AWS, so going over basics is useful, but will have to learn everything again if I ever must use it.<br />I was very happy to go over CI/CD as it allowed me to understand the process of deployment better (especially from the perspective of my work where we are introducing a TDD).<br /><br />Punctuality & Engagement:<br />
+Anna was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Anna told me: The course was my first encounter with creating containers, images and networks in Docker, so to make sure the knowledge I gained is consolidated I will have to create a pet-project (at least currently as I am not working with Docker) to practice and experiment with different outcomes. Basically make, break and fix the environment. To make sure I understand the topic on a working level I would have to dive deeper and constantly experiment.<br /><br />--------------------------------<br />Robert Angelitud<br /> 
+General comments:<br />
+Robert did well in this course and I am happy with Robert's progress.<br />
+Robert made the following comments about the course: Docker in general was really useful; beanstalk lab was very similar to what was done pre-course already.<br /><br />Punctuality & Engagement:<br />
+Robert was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Robert told me: Use docker in the workplace and/or take an AWS Cert course.<br /><br />--------------------------------<br />

@@ -4,4 +4,22 @@ Annie did well in this course and I am happy with Annie's progress.<br />
 Annie made the following comments about the course: I have found it really useful to learn about Docker and how it works. It was interesting to see how Docker containers can encapsulate everything needed to run applications. I liked that we were given enough time to go through everything at our own pace.<br /><br />Punctuality & Engagement:<br />
 Annie was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Annie told me: I would like to experiment further with the labs and read up on Kubernetes.<br /><br />--------------------------------<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Annie told me: I would like to experiment further with the labs and read up on Kubernetes.<br /><br />--------------------------------<br />Margaret (Malgorzata) Kaminska<br /> 
+General comments:<br />
+Margaret did well in this course and I am happy with Margaret's progress.<br />
+Margaret made the following comments about the course: I found Docker useful and CI/CD<br /><br />Punctuality & Engagement:<br />
+Margaret was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Margaret told me: I need to apply it at the workplace<br /><br />--------------------------------<br />Aaron Ballagan<br /> 
+General comments:<br />
+Aaron did well in this course and I am happy with Aaron's progress.<br />
+Aaron made the following comments about the course: I found the Docker content on basics, composer and networking to be the most useful, which turned out to be the majority of the content covered in this course.<br /><br />Punctuality & Engagement:<br />
+Aaron was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Aaron told me: Practise the knowledge gained here in real projects to cement and further develop this knowledge.<br /><br />--------------------------------<br />Rohan Johnson<br /> 
+General comments:<br />
+Rohan did well in this course and I am happy with Rohan's progress.<br />
+Rohan made the following comments about the course: I found docker useful but I still don't like it, it makes me angry in ways no other software can haha. I did manage to get it working with the node:18-alpine base image and I learned a lot about dockerfiles while figuring out why it didn't work.<br /><br />Punctuality & Engagement:<br />
+Rohan was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Rohan told me: I should try to dockerize projects in other languages/frameworks such as an ASP project etc<br /><br />--------------------------------<br />

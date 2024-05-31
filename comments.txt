@@ -46,4 +46,10 @@ Kwela did well in this course and I am happy with Kwela's progress.<br />
 Kwela made the following comments about the course: I think everything was useful but I found the subjects quite complex, I need more time time to process it all.<br /><br />Punctuality & Engagement:<br />
 Kwela was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Kwela told me: I will ask my manager for a task where I can develop my understanding of Docker.<br /><br />--------------------------------<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Kwela told me: I will ask my manager for a task where I can develop my understanding of Docker.<br /><br />--------------------------------<br />Matthew Maiden<br /> 
+General comments:<br />
+Matthew did well in this course and I am happy with Matthew's progress.<br />
+Matthew made the following comments about the course: I found the learning we did on docker useful and didnt get much new from devops<br /><br />Punctuality & Engagement:<br />
+Matthew was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Matthew told me: Continue working on personal projects that include docker<br /><br />--------------------------------<br />

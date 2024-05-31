@@ -70,4 +70,10 @@ Niyaz did well in this course and I am happy with Niyaz's progress.<br />
 Niyaz made the following comments about the course: I FOUND THE dOCKER AND aws USEFUL AS THEY FOLLOW COMPANY Practices. However, Jenkins and extra theory slides as well as lengthy demos were not very useful to me as they were not aligned with the company and I lose focus quite easily<br /><br />Punctuality & Engagement:<br />
 Niyaz was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Niyaz told me: Keep doing labs and completing software tickets which consists of dockers<br /><br />--------------------------------<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Niyaz told me: Keep doing labs and completing software tickets which consists of dockers<br /><br />--------------------------------<br />Abdul Raffay<br /> 
+General comments:<br />
+Abdul did well in this course and I am happy with Abdul's progress.<br />
+Abdul made the following comments about the course: I found all of them very useful and it has expanded my knowledge.<br /><br />Punctuality & Engagement:<br />
+Abdul was always punctual during the 2 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing Microservices and APIs at work.<br /> When I asked what to do after the course, Abdul told me: Carry on practicising and use mikes advice of using AWS to practise<br /><br />--------------------------------<br />

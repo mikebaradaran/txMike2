@@ -6,61 +6,69 @@ const audioFile = 'https://cdn.glitch.global/7ea2c2b4-d4b6-41d3-afca-c4c259b797b
 const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashboard?siteurl=qa-learning";
 // const afaPath = "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjY4M2NiZTktYzJjMS00MTVkLTg1ZTktOGNkOWQzOTA3MWFl%40thread.v2/0?context=%7b%22Tid%22%3a%229c220797-c337-49f8-b086-a9a24979f728%22%2c%22Oid%22%3a%2246d9b67a-17db-40c3-ac50-6ec37a29497b%22%7d";
 var courseData = `
-Design and DevOps
-ADXD2SD4M4
-4807186-31
-qa.msteamsorg01@qa.com
-https://onedrive.live.com/?authkey=%21AKia7f80caphL9M&id=82887C4F49A97ED0%21143973&cid=82887C4F49A97ED0
+Introduction to Software Development - Part 2
+ADXD2SD4M1B
+4803453-7
+qaqa.webex028@qa.com
+https://onedrive.live.com/?authkey=%21APtj4tSLpU8MGKI&id=82887C4F49A97ED0%21143274&cid=82887C4F49A97ED0
+qa.webex028@qa.com
 N/A
 `;
 
 var trainer = "Mike Baradaran - mike.baradaran@qa.com";
 
 var passwords = `
-virtualroom10@qa.com
+virtualroom27@qa.com
 QARemoteLearning#1
-password542
+password744
 `;
 
 
 var pcs = `
-https://www.gotomypc.com/sc/0F3ED7D1A559C48EA58BC18F95EF69DA
-https://www.gotomypc.com/sc/12208788BD976CCC25D4718F95EF9E8F
-https://www.gotomypc.com/sc/8FF9F45F6A26CDE8C6D1318F95F043A1
-https://www.gotomypc.com/sc/32476BBB352A38DD33B6518F95EFBC37
-https://www.gotomypc.com/sc/DE8C38CF7F6D1B3BE178F18F95F08B35
-https://www.gotomypc.com/sc/F4BEF7B3D7BDCF72D669818F95F0B451
-https://www.gotomypc.com/sc/B7774D5373CE207F151B718F95F0DEFB
-https://www.gotomypc.com/sc/0B4EBF086DCFFDCB8C0F218F95F126AA
-https://www.gotomypc.com/sc/F831D1BC0F0F6A5B65E4918F95F14548
-https://www.gotomypc.com/sc/555F9DF0FD319C0FFC71818F95EFDB17
-https://www.gotomypc.com/sc/F0200B059904F084054BA18F95EFFE78
-https://www.gotomypc.com/sc/35B4574C5A130E4BBFCD418F95F1B3EB
-https://www.gotomypc.com/sc/EE99FC36FDBEE33EF145518F95F1D741
-https://www.gotomypc.com/sc/2A29F67D9EC6B50F9732E18F95F2060D
-https://www.gotomypc.com/sc/EA9926E48734193F6CE0A18F95F22A8C
-https://www.gotomypc.com/sc/B463413575B3488EC360F18F95F25078
-https://www.gotomypc.com/sc/A5E473293097BA556CC6118F95F27380
-https://www.gotomypc.com/sc/EA3F355CBA230534CDA1118F95F10532
+https://www.gotomypc.com/sc/84D3E2BD3D64E60168DA218FCE3F1219
+https://www.gotomypc.com/sc/3C234CF592DAD42E13E1D18FCE3F4353
+https://www.gotomypc.com/sc/8DB0F80412BBD5B23792918FCE3F64B8
+https://www.gotomypc.com/sc/B02F3E67BD40F049AB12618FCE3F8C15
+https://www.gotomypc.com/sc/CFC9CDBF7C4E89CC82CC918FCE3FB056
+https://www.gotomypc.com/sc/DE863E3CD054DBB74F79F18FCE3FD301
+https://www.gotomypc.com/sc/5944A3368EF5AE5093B3018FCE3FFE09
+https://www.gotomypc.com/sc/CCF27EA07487EB1103C1418FCE40275B
+https://www.gotomypc.com/sc/8E1FE185EB02BDE03BCD218FCE404B93
+https://www.gotomypc.com/sc/D618F16C018B0D8B3721418FCE406EB8
+https://www.gotomypc.com/sc/6A4097CFD4929BAA1815018FCE40950A
+https://www.gotomypc.com/sc/CFAB2A21C1DF4888C68AB18FCE40BAB5
+https://www.gotomypc.com/sc/4A79DE518E9D6931AD3FD18FCE418A4A
+https://www.gotomypc.com/sc/8E1CF21CD79663A4A413318FCE41AEAA
+https://www.gotomypc.com/sc/7F7F9B92EFB6A67465DEC18FCE41E83E
+https://www.gotomypc.com/sc/72A018C82C1809F5AAA7018FCE420DFE
+https://www.gotomypc.com/sc/891D67962C841DD8C690718FCE423080
+https://www.gotomypc.com/sc/60CCD9F31F50DDC61EDD218FCE4108C4
+https://www.gotomypc.com/sc/62B5CFA9E084B45DC22A818FCE425D28
+https://www.gotomypc.com/sc/377E1638732A7AE8D82CF18FCE427F95
+https://www.gotomypc.com/sc/9FD72BA32270132E0577218FCE42A32B
 `;
 
 var students = `
 Trainer, Trainer
-Ballagan, Aaron	
-Johnson, Rohan
-Kaminska, Malgorzata
-Wrzosek, Anna
-Czechowska, Aleksandra
-Bindika, Kwela
-Baines, Annie
-Angelitud, Robert
-Warden, Paige
-Miah, Niyaz
-Maiden, Matthew
-Adu-Baah, Joseph
-Khan, Salman
-Raffay, Abdul
+Jeevapalan, Romila
+Schudel, Alexander
+Bishop, Cameron
+Choudhury, Mohammad Akbar
+Hinds, Liam
+Atkins, George	
+Batty, Daniel	
+Edridge, William	
+El-Gonemy, Maz	
+Kirby, Jordon	
+Mundy, Ted	
+O'Driscoll, Conal	
+Patel, Mital	
+Radziievskyi, Mykyta	
+Ryan, Jed		
+Sonetto, Maria	
+Walls, Andrew
 Test, test1
 Test, test2
+Test, test3
 `;
 

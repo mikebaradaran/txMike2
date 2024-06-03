@@ -9,9 +9,8 @@ var courseData = `
 Introduction to Software Development - Part 2
 ADXD2SD4M1B
 4803453-7
-qaqa.webex028@qa.com
-https://onedrive.live.com/?authkey=%21APtj4tSLpU8MGKI&id=82887C4F49A97ED0%21143274&cid=82887C4F49A97ED0
 qa.webex028@qa.com
+https://onedrive.live.com/?authkey=%21APtj4tSLpU8MGKI&id=82887C4F49A97ED0%21143274&cid=82887C4F49A97ED0
 N/A
 `;
 

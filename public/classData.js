@@ -14,7 +14,7 @@ https://onedrive.live.com/?authkey=%21APtj4tSLpU8MGKI&id=82887C4F49A97ED0%211432
 N/A
 `;
 
-var trainer = "Mike Baradaran - mike.baradaran@qa.com";
+var trainer = "Mike Baradaran Trainer- mike.baradaran@qa.com";
 
 var passwords = `
 virtualroom27@qa.com

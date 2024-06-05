@@ -1,6 +1,6 @@
 function processComment(name, comment1, comment2) {
-  const duration = "2";
-  const courseTitle = "Microservices and APIs";
+  const duration = "5";
+  const courseTitle = "websites";
   const recommendation = `Practice designing and implementing ${courseTitle} at work.`
   // ------------------------------------------------------------
   

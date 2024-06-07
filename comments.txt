@@ -4,4 +4,16 @@ Liam did well in this course and I am happy with Liam's progress.<br />
 Liam made the following comments about the course: I really enjoyed the week covering various levels for web development. <br /><br />Punctuality & Engagement:<br />
 Liam was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Liam told me: I will be looking further into javascript and jQuery. I have been doing basic web dev for around 8 years, and have NEVER touched anything js related. <br /><br />--------------------------------<br />
+Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Liam told me: I will be looking further into javascript and jQuery. I have been doing basic web dev for around 8 years, and have NEVER touched anything js related. <br /><br />--------------------------------<br />Mital Patel<br /> 
+General comments:<br />
+Mital did well in this course and I am happy with Mital's progress.<br />
+Mital made the following comments about the course: Ajax and Angular JS.  HTML/CSS and JQuery stuff was less useful for me as I already knew a lot of it.<br /><br />Punctuality & Engagement:<br />
+Mital was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Mital told me: Practice using ajax and Angular JS.<br /><br />--------------------------------<br />Mazen El-Ghonemy<br /> 
+General comments:<br />
+Mazen did well in this course and I am happy with Mazen's progress.<br />
+Mazen made the following comments about the course: JavaScript was excellent - Along with JQuery. HTML and CSS I was already very comfortable so personally i did not learn much here but I learnt loads on JavaScript and JQuery as my understanding of these topics was previously very shaky. I did not realise how effective JavaScript can be. I can see now a lot of things I would previously have done on the server could potentially be done client side. Specifically around APIs. <br /><br />Punctuality & Engagement:<br />
+Mazen was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Mazen told me: I want to try to use JavaScript/JQuery/AngularJS at work to solidify my understanding. <br /><br />--------------------------------<br />

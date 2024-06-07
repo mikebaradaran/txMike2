@@ -64,4 +64,22 @@ Conal did well in this course and I am happy with Conal's progress.<br />
 Conal made the following comments about the course: Javascript most, JQuery least(focusing more on vue.js at the moment but was still very useful) 10<br /><br />Punctuality & Engagement:<br />
 Conal was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Conal told me: Experiment more with modules in js<br /><br />--------------------------------<br />
+Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Conal told me: Experiment more with modules in js<br /><br />--------------------------------<br />Alexander Schudel<br /> 
+General comments:<br />
+Alexander did well in this course and I am happy with Alexander's progress.<br />
+<br />Punctuality & Engagement:<br />
+Alexander was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing websites at work.<br /> <br />--------------------------------<br />Mohammad Choudhury<br /> 
+General comments:<br />
+Mohammad did well in this course and I am happy with Mohammad's progress.<br />
+<br />Punctuality & Engagement:<br />
+Mohammad was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing websites at work.<br /> <br />--------------------------------<br />Ted Mundy<br /> 
+General comments:<br />
+Ted did well in this course and I am happy with Ted's progress.<br />
+<br />Punctuality & Engagement:<br />
+Ted was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing websites at work.<br /> <br />--------------------------------<br />

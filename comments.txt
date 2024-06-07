@@ -46,4 +46,22 @@ Jordon did well in this course and I am happy with Jordon's progress.<br />
 Jordon made the following comments about the course: All were very useful, even basics helped<br /><br />Punctuality & Engagement:<br />
 Jordon was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Jordon told me: More practice and research<br /><br />--------------------------------<br />
+Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Jordon told me: More practice and research<br /><br />--------------------------------<br />Mykyta Radziievskyi<br /> 
+General comments:<br />
+Mykyta did well in this course and I am happy with Mykyta's progress.<br />
+Mykyta made the following comments about the course: I found every topic useful <br /><br />Punctuality & Engagement:<br />
+Mykyta was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Mykyta told me: Just train, and read more additional info. YouTube/ stackOverFlow/ w3school etc<br /><br />--------------------------------<br />Cameron Bishop<br /> 
+General comments:<br />
+Cameron did well in this course and I am happy with Cameron's progress.<br />
+Cameron made the following comments about the course: The JQuery was more useful than I realised.<br />What wasn't as useful was going through the basics with HTML and CSS since I already know a lot about it<br /><br />Punctuality & Engagement:<br />
+Cameron was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Cameron told me: Get more practice with JQuery and APIs<br /><br />--------------------------------<br />Conal O'Driscoll<br /> 
+General comments:<br />
+Conal did well in this course and I am happy with Conal's progress.<br />
+Conal made the following comments about the course: Javascript most, JQuery least(focusing more on vue.js at the moment but was still very useful) 10<br /><br />Punctuality & Engagement:<br />
+Conal was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Conal told me: Experiment more with modules in js<br /><br />--------------------------------<br />

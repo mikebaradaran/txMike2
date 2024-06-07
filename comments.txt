@@ -28,4 +28,10 @@ Romila did well in this course and I am happy with Romila's progress.<br />
 Romila made the following comments about the course: HTML, CSS, JavaScript, jQuery, and AJAX were really helpful for learning how to make websites. I liked how we got to see examples and practice with real code.  Overall, I enjoyed the classes this week and learned a lot about building websites. <br /><br />Punctuality & Engagement:<br />
 Romila was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
 Recommendations for further learning:<br />
-Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Romila told me: My challenge is to practice regularly every day setting challenges that test my knowledge and keep developing.<br /><br />--------------------------------<br />
+Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Romila told me: My challenge is to practice regularly every day setting challenges that test my knowledge and keep developing.<br /><br />--------------------------------<br />Jed Ryan<br /> 
+General comments:<br />
+Jed did well in this course and I am happy with Jed's progress.<br />
+Jed made the following comments about the course: The introductions to javascript and how the internet works, gave me a deeper knowledge of the language and web development and I now know how javascript works "under the hood" of other frameworks/libraries. I found the brief topics on html and css less useful as I had a strong understanding prior to this.<br /><br />Punctuality & Engagement:<br />
+Jed was always punctual during the 5 days of the course and was engaged during the lectures.<br /><br />
+Recommendations for further learning:<br />
+Practice designing and implementing websites at work.<br /> When I asked what to do after the course, Jed told me: Expand on my understanding of these web fundamentals, to design efficient and secure software.<br /><br />--------------------------------<br />

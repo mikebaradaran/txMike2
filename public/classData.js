@@ -6,66 +6,58 @@ const audioFile = 'https://cdn.glitch.global/7ea2c2b4-d4b6-41d3-afca-c4c259b797b
 const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashboard?siteurl=qa-learning";
 // const afaPath = "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjY4M2NiZTktYzJjMS00MTVkLTg1ZTktOGNkOWQzOTA3MWFl%40thread.v2/0?context=%7b%22Tid%22%3a%229c220797-c337-49f8-b086-a9a24979f728%22%2c%22Oid%22%3a%2246d9b67a-17db-40c3-ac50-6ec37a29497b%22%7d";
 var courseData = `
-Introduction to Software Development - Part 2
-ADXD2SD4M1B
-4803453-7
-qa.webex028@qa.com
-https://onedrive.live.com/?authkey=%21APtj4tSLpU8MGKI&id=82887C4F49A97ED0%21143274&cid=82887C4F49A97ED0
-N/A
+Software Craft
+ADXD2SD4M5
+qa.webex039@qa.com
+https://onedrive.live.com/?authkey=%21AMc9oj477cbvmv0&id=82887C4F49A97ED0%21141761&cid=82887C4F49A97ED0
+GBICG7NIU9VF
 `;
 
 var trainer = "Mike Baradaran Trainer- mike.baradaran@qa.com";
 
 var passwords = `
-virtualroom27@qa.com
+ukgl.303@qa.com
 QARemoteLearning#1
-password744
+password6724
 `;
 
 
 var pcs = `
-https://www.gotomypc.com/sc/84D3E2BD3D64E60168DA218FCE3F1219
-https://www.gotomypc.com/sc/3C234CF592DAD42E13E1D18FCE3F4353
-https://www.gotomypc.com/sc/8DB0F80412BBD5B23792918FCE3F64B8
-https://www.gotomypc.com/sc/B02F3E67BD40F049AB12618FCE3F8C15
-https://www.gotomypc.com/sc/CFC9CDBF7C4E89CC82CC918FCE3FB056
-https://www.gotomypc.com/sc/DE863E3CD054DBB74F79F18FCE3FD301
-https://www.gotomypc.com/sc/5944A3368EF5AE5093B3018FCE3FFE09
-https://www.gotomypc.com/sc/CCF27EA07487EB1103C1418FCE40275B
-https://www.gotomypc.com/sc/8E1FE185EB02BDE03BCD218FCE404B93
-https://www.gotomypc.com/sc/D618F16C018B0D8B3721418FCE406EB8
-https://www.gotomypc.com/sc/6A4097CFD4929BAA1815018FCE40950A
-https://www.gotomypc.com/sc/CFAB2A21C1DF4888C68AB18FCE40BAB5
-https://www.gotomypc.com/sc/4A79DE518E9D6931AD3FD18FCE418A4A
-https://www.gotomypc.com/sc/8E1CF21CD79663A4A413318FCE41AEAA
-https://www.gotomypc.com/sc/7F7F9B92EFB6A67465DEC18FCE41E83E
-https://www.gotomypc.com/sc/72A018C82C1809F5AAA7018FCE420DFE
-https://www.gotomypc.com/sc/891D67962C841DD8C690718FCE423080
-https://www.gotomypc.com/sc/60CCD9F31F50DDC61EDD218FCE4108C4
-https://www.gotomypc.com/sc/62B5CFA9E084B45DC22A818FCE425D28
-https://www.gotomypc.com/sc/377E1638732A7AE8D82CF18FCE427F95
-https://www.gotomypc.com/sc/9FD72BA32270132E0577218FCE42A32B
+https://www.gotomypc.com/sc/088A45FB6EB53FBC9C8D719010AD3616
+https://www.gotomypc.com/sc/DF5EB89F764750F081B5B19010AA8A48
+https://www.gotomypc.com/sc/37FCDE0D911CFEE6830BB19010AB25C2
+https://www.gotomypc.com/sc/4C36628346318F64A75C219010AB79A2
+https://www.gotomypc.com/sc/01E8BDB75AAFC3A22C44D19010AC415B
+https://www.gotomypc.com/sc/2BA02AE537AAD31841D1619010AC7C50
+https://www.gotomypc.com/sc/817FC68B9AD89217F757B19010ACBA35
+https://www.gotomypc.com/sc/6D273B17DC2AF211CD97B19010ACEF11
+https://www.gotomypc.com/sc/7A022D88F17E92D6AEBDE19010ADA2FC
+https://www.gotomypc.com/sc/90A8D69AD19AAB37F97A419010ADF1F8
+https://www.gotomypc.com/sc/278F4FEEF3915F7E4355719010AE37E8
+https://www.gotomypc.com/sc/760C35407B31630D52E8019010AE8B3B
+https://www.gotomypc.com/sc/5FB5CDEE954B06D7878B419010AECC10
+https://www.gotomypc.com/sc/8429A9EF5BF44E4456D5719010AF0D07
+https://www.gotomypc.com/sc/90C0A830787F4DA06205819010AF455D
+https://www.gotomypc.com/sc/7684C2286972A68E38C0D19010AF7DA4
+https://www.gotomypc.com/sc/CC222C4737398F0ED76B619010AFAC30
+https://www.gotomypc.com/sc/8E81AF0C5F7DCB47EE3FB19010AFEFB5
 `;
 
 var students = `
 Trainer, Trainer
-Jeevapalan, Romila
-Schudel, Alexander
-Bishop, Cameron
-Choudhury, Mohammad Akbar
-Hinds, Liam
-Atkins, George	
-Batty, Daniel	
-Edridge, William	
-El-Gonemy, Maz	
-Kirby, Jordon	
-Mundy, Ted	
-O'Driscoll, Conal	
-Patel, Mital	
-Radziievskyi, Mykyta	
-Ryan, Jed		
-Sonetto, Maria	
-Walls, Andrew
+Johnson, Rohan	
+Harker, Alexandra	
+Dey, Nandan
+Bell, Steven
+Whitcombe-Ritchie, Jacob
+Metcalfe, Samuel
+Kennedy, Alexander
+Georgiev, Ivaylo
+Robinson, Nathan
+Jarrett, Andrew
+Cale, Joanna
+Ward, Jonathan
+Singh, Jaspal
 Test, test1
 Test, test2
 Test, test3

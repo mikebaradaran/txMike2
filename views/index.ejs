@@ -7,9 +7,13 @@
     <link href="txMike.css" rel="stylesheet" />
     <script src="classData.js" defer></script>
     <script src="txMike.js" defer></script>
+    <script type="module" src="./timer.js" defer>
+      window.setTimerValue = setTimerValue;
+    </script>
 
 </head>
 <body>
+  <qa-timer></qa-timer>
     <div id="site" style="display:none;"><%= commonData.appName %></div>
     <header>
         <svg viewbox="0 0 607.822 420.405">

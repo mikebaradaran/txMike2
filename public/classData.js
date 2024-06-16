@@ -8,6 +8,7 @@ const afaPath = "https://qa-learning.webex.com/webappng/sites/qa-learning/dashbo
 var courseData = `
 Software Craft
 ADXD2SD4M5
+4796411-19
 qa.webex039@qa.com
 https://onedrive.live.com/?authkey=%21AMc9oj477cbvmv0&id=82887C4F49A97ED0%21141761&cid=82887C4F49A97ED0
 GBICG7NIU9VF

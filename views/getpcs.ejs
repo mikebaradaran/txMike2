@@ -8,7 +8,6 @@
 <body>
     paste here:<textarea id="pcs"></textarea>
     <button onclick="getPCs()">OK</button>
-    Result:<textarea id="result" rows="16"></textarea>
     <script>
         function getPCs() {
             let pcs = document.getElementById('pcs').value.split('\n');
@@ -18,7 +17,7 @@
                     result += pc.replace('Lab URL:', '').
                         replace(',', '').trim() + "\n";
             });
-            document.getElementById('result').value = result;
+            alert('PCs are copied to clipboard');
         }
     </script>
 </body>

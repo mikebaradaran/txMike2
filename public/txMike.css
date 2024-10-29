@@ -61,7 +61,7 @@ emoji {
     font-size: 40px;
 }
 
-#timer {
+#timer, #myTimer {
     width: 500px;
 }
 

@@ -1,7 +1,9 @@
 // server.js
 var customers = require("./customers.json");
 var orders = require("./orders.json")
+var blogs = require("./blogData2.json")
 const commentJS = require('./comments.js');
+
 const commonData = require("./common.js");
 
 
@@ -50,16 +52,22 @@ app.get("/index", (req, res) => {
 app.get("/timer", (req, res) => {
   res.render("timer");
 });
-app.get("/index2", (req, res) => {
-  res.render("index2");
+app.get("/login", (req, res) => {
+  res.render("login");
 });
 
 app.get("/getpcs", (req, res) => {
   res.render("getpcs");
 });
+
 app.get("/all", (req, res) => {
   res.render("all");
 });
+
+app.get("/blogs", (req, res) => {
+  res.send(blogs);
+});
+
 
 app.get("/student", (req, res) => {
   res.render("student");
@@ -87,6 +95,15 @@ app.get("/commentsRead", (req, res) => {
 app.get("/commentsDelete", (req, res) => {
   commentJS.deleteComments(fs);
   res.send("File deleted");
+});
+
+app.get("/commentsReadnames", (req, res) => {
+  let names = fs.readFileSync('comments.txt', 'utf8');
+  let allNames = "";
+  for(let name of names.split("--------------------------------")){
+    allNames += name.substring(0,10);
+  }
+  res.send(allNames);
 });
 
 // Handle form submission for comments
@@ -119,6 +136,10 @@ app.get("/orders/:id", function (req, res) {
     (c) => c.CustomerID.toLowerCase() == id.toLowerCase()
   );
   res.send(data);
+});
+
+app.get("/update", function (req, res) {
+  res.send("https://www.microsoft.com/en-gb/software-download/windows10");
 });
 
 server.listen(

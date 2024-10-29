@@ -1,9 +1,11 @@
+const duration = "3";
+const recommendation =
+  "Practice designing and applying the Agile techniques and principles discussed in this course.";
+
+
 function processComment(name, comment1, comment2) {
-  const duration = "3";
-  const courseTitle = "Practice designing and applying the Agile techniques and principles discussed in this course.";
-  const recommendation = `${courseTitle}`
   // ------------------------------------------------------------
-  
+
   let firstname = name.split(" ")[0];
   let com1 = "";
   let com2 = "";

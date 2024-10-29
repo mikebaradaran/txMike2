@@ -53,6 +53,9 @@ cboMessages.addEventListener("change", () => {
   } else {
     getElement("timer").value = cboTime;
     startTimer("timer", "divTimer");
+    //window.setTimerValue(cboTime);
+    
+    
   }
 });
 
@@ -79,7 +82,7 @@ function afa() {
   navigator.clipboard
     .writeText(afaEmail)
     .then(() => {
-      window.open(afaPath, "_blank");
+      //window.open(afaPath, "_blank");
     })
     .catch((error) => {
       alert(`Copy failed! ${error}`);
